@@ -8,6 +8,11 @@ on:
   # Allow manual trigger
   workflow_dispatch:
 
+# Prevent concurrent deployments to avoid GitHub Pages conflicts
+concurrency:
+  group: pages-deployment
+  cancel-in-progress: false
+
 jobs:
   update-data:
     runs-on: ubuntu-latest
@@ -46,10 +51,6 @@ jobs:
       - name: Generate 3D options surface
         run: |
           python3 scripts/generate_3d_surface_v2.py
-      
-      - name: Copy updated data to web project
-        run: |
-          cp results/*.json client/public/
       
       - name: Commit and push if changed
         run: |
