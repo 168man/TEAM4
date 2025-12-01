@@ -156,8 +156,14 @@ def main():
         result['predictions']['7_day'] = predictions[sorted_expiries[min(2, len(sorted_expiries)-1)]]
         result['predictions']['30_day'] = predictions[sorted_expiries[-1]]
     
-    # Save results
-    output_file = '/home/ubuntu/btc_prediction/results/deribit_options_current.json'
+    # Save results - use relative path for GitHub Actions
+    import os
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    repo_root = os.path.dirname(script_dir)
+    output_dir = os.path.join(repo_root, 'client', 'public')
+    os.makedirs(output_dir, exist_ok=True)
+    
+    output_file = os.path.join(output_dir, 'deribit_options_current.json')
     with open(output_file, 'w') as f:
         json.dump(result, f, indent=2)
     

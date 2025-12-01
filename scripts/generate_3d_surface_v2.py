@@ -181,7 +181,14 @@ def main():
         'surface_data': surface_data
     }
     
-    output_path = '/home/ubuntu/btc_prediction/results/options_3d_surface.json'
+    # Use relative path for GitHub Actions
+    import os
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    repo_root = os.path.dirname(script_dir)
+    output_dir = os.path.join(repo_root, 'client', 'public')
+    os.makedirs(output_dir, exist_ok=True)
+    
+    output_path = os.path.join(output_dir, 'options_3d_surface.json')
     with open(output_path, 'w') as f:
         json.dump(output, f, indent=2)
     

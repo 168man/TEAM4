@@ -25,8 +25,16 @@ def calculate_rsi(prices, period=14):
 def update_lstm_predictions():
     """Update LSTM predictions using simplified model"""
     try:
+        # Use relative path for GitHub Actions
+        import os
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        repo_root = os.path.dirname(script_dir)
+        output_dir = os.path.join(repo_root, 'client', 'public')
+        os.makedirs(output_dir, exist_ok=True)
+        
         # Load current price
-        with open('results/current_price.json', 'r') as f:
+        price_file = os.path.join(output_dir, 'current_price.json')
+        with open(price_file, 'r') as f:
             price_data = json.load(f)
         
         current_price = price_data['price']
@@ -65,7 +73,8 @@ def update_lstm_predictions():
         }
         
         # Save results
-        with open('results/lstm_predictions.json', 'w') as f:
+        output_file = os.path.join(output_dir, 'lstm_predictions.json')
+        with open(output_file, 'w') as f:
             json.dump(predictions, f, indent=2)
         
         print(f"✓ Updated LSTM predictions")

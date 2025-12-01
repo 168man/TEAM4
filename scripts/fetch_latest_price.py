@@ -32,8 +32,15 @@ def fetch_latest_price():
             'date': datetime.fromtimestamp(timestamp).strftime('%Y-%m-%d %H:%M:%S')
         }
         
-        # Save to results
-        with open('results/current_price.json', 'w') as f:
+        # Save to results - use relative path for GitHub Actions
+        import os
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        repo_root = os.path.dirname(script_dir)
+        output_dir = os.path.join(repo_root, 'client', 'public')
+        os.makedirs(output_dir, exist_ok=True)
+        
+        output_file = os.path.join(output_dir, 'current_price.json')
+        with open(output_file, 'w') as f:
             json.dump(result, f, indent=2)
         
         print(f"✓ Fetched current BTC price: ${price:,.2f}")
