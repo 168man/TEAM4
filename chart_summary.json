@@ -1,0 +1,23 @@
+{
+  "total_weeks": 883,
+  "start_date": "2009-01-04",
+  "end_date": "2025-11-30",
+  "current_price": 87906.08,
+  "ath_events": [
+    {
+      "date": "2013-12-04",
+      "price": 1134.93,
+      "label": "2013 ATH"
+    },
+    {
+      "date": "2017-12-16",
+      "price": 19640.51,
+      "label": "2017 ATH"
+    },
+    {
+      "date": "2021-11-08",
+      "price": 67541.76,
+      "label": "2021 ATH"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "current_price": 91583.36,
+  "timestamp": "2025-11-28T04:21:09.131229",
+  "predictions": {
+    "1_day": {
+      "expected_price": 88594.61,
+      "current_price": 91583.36,
+      "change_pct": -3.26,
+      "total_open_interest": 2353.2999999999997
+    },
+    "7_day": {
+      "expected_price": 89944.41,
+      "current_price": 91583.36,
+      "change_pct": -1.79,
+      "total_open_interest": 332.79999999999995
+    },
+    "30_day": {
+      "expected_price": 86923.08,
+      "current_price": 91583.36,
+      "change_pct": -5.09,
+      "total_open_interest": 3.9
+    }
+  },
+  "raw_expiries": {
+    "2025-11-29": {
+      "expected_price": 88594.61,
+      "current_price": 91583.36,
+      "change_pct": -3.26,
+      "total_open_interest": 2353.2999999999997
+    },
+    "2025-11-30": {
+      "expected_price": 90300.05,
+      "current_price": 91583.36,
+      "change_pct": -1.4,
+      "total_open_interest": 1508.1000000000001
+    },
+    "2025-12-01": {
+      "expected_price": 89944.41,
+      "current_price": 91583.36,
+      "change_pct": -1.79,
+      "total_open_interest": 332.79999999999995
+    },
+    "2025-12-02": {
+      "expected_price": 86923.08,
+      "current_price": 91583.36,
+      "change_pct": -5.09,
+      "total_open_interest": 3.9
+    }
+  }
+}

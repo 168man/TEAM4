@@ -1,0 +1,7066 @@
+[
+  {
+    "date": "2009-01-04",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-01-11",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-01-18",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-01-25",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-02-01",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-02-08",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-02-15",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-02-22",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-03-01",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-03-08",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-03-15",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-03-22",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-03-29",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-04-05",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-04-12",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-04-19",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-04-26",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-05-03",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-05-10",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-05-17",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-05-24",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-05-31",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-06-07",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-06-14",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-06-21",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-06-28",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-07-05",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-07-12",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-07-19",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-07-26",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-08-02",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-08-09",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-08-16",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-08-23",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-08-30",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-09-06",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-09-13",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-09-20",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-09-27",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-10-04",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-10-11",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-10-18",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-10-25",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-11-01",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-11-08",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-11-15",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-11-22",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-11-29",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-12-06",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-12-13",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-12-20",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2009-12-27",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-01-03",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-01-10",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-01-17",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-01-24",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-01-31",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-02-07",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-02-14",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-02-21",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-02-28",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-03-07",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-03-14",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-03-21",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-03-28",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-04-04",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-04-11",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-04-18",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-04-25",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-05-02",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-05-09",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-05-16",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-05-23",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-05-30",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-06-06",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-06-13",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-06-20",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-06-27",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-07-04",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-07-11",
+    "actual": null,
+    "onchain": null,
+    "lstm": null,
+    "valuation_score": null,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-07-18",
+    "actual": 0.09,
+    "onchain": 0.0,
+    "lstm": null,
+    "valuation_score": 99.63,
+    "signal": "Hold"
+  },
+  {
+    "date": "2010-07-25",
+    "actual": 0.07,
+    "onchain": 0.0,
+    "lstm": null,
+    "valuation_score": 99.21,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2010-08-01",
+    "actual": 0.06,
+    "onchain": 0.01,
+    "lstm": 0.07,
+    "valuation_score": 98.8,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2010-08-08",
+    "actual": 0.06,
+    "onchain": 0.01,
+    "lstm": 0.06,
+    "valuation_score": 98.99,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2010-08-15",
+    "actual": 0.07,
+    "onchain": 0.01,
+    "lstm": 0.07,
+    "valuation_score": 99.31,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2010-08-22",
+    "actual": 0.07,
+    "onchain": 0.01,
+    "lstm": 0.07,
+    "valuation_score": 99.4,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2010-08-29",
+    "actual": 0.06,
+    "onchain": 0.02,
+    "lstm": 0.07,
+    "valuation_score": 99.48,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2010-09-05",
+    "actual": 0.06,
+    "onchain": 0.02,
+    "lstm": 0.06,
+    "valuation_score": 99.53,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2010-09-12",
+    "actual": 0.06,
+    "onchain": 0.02,
+    "lstm": 0.06,
+    "valuation_score": 99.62,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2010-09-19",
+    "actual": 0.06,
+    "onchain": 0.02,
+    "lstm": 0.06,
+    "valuation_score": 99.69,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2010-09-26",
+    "actual": 0.06,
+    "onchain": 0.02,
+    "lstm": 0.06,
+    "valuation_score": 99.74,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2010-10-03",
+    "actual": 0.06,
+    "onchain": 0.03,
+    "lstm": 0.06,
+    "valuation_score": 94.73,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2010-10-10",
+    "actual": 0.08,
+    "onchain": 0.03,
+    "lstm": 0.07,
+    "valuation_score": 94.91,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2010-10-17",
+    "actual": 0.1,
+    "onchain": 0.04,
+    "lstm": 0.1,
+    "valuation_score": 99.84,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2010-10-24",
+    "actual": 0.1,
+    "onchain": 0.04,
+    "lstm": 0.1,
+    "valuation_score": 98.71,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2010-10-31",
+    "actual": 0.18,
+    "onchain": 0.05,
+    "lstm": 0.17,
+    "valuation_score": 99.92,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2010-11-07",
+    "actual": 0.26,
+    "onchain": 0.06,
+    "lstm": 0.25,
+    "valuation_score": 99.96,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2010-11-14",
+    "actual": 0.25,
+    "onchain": 0.08,
+    "lstm": 0.25,
+    "valuation_score": 99.95,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2010-11-21",
+    "actual": 0.26,
+    "onchain": 0.09,
+    "lstm": 0.28,
+    "valuation_score": 99.24,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2010-11-28",
+    "actual": 0.28,
+    "onchain": 0.1,
+    "lstm": 0.28,
+    "valuation_score": 99.03,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2010-12-05",
+    "actual": 0.23,
+    "onchain": 0.1,
+    "lstm": 0.24,
+    "valuation_score": 89.57,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2010-12-12",
+    "actual": 0.22,
+    "onchain": 0.11,
+    "lstm": 0.21,
+    "valuation_score": 85.47,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2010-12-19",
+    "actual": 0.24,
+    "onchain": 0.11,
+    "lstm": 0.24,
+    "valuation_score": 89.0,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2010-12-26",
+    "actual": 0.25,
+    "onchain": 0.12,
+    "lstm": 0.25,
+    "valuation_score": 88.86,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2011-01-02",
+    "actual": 0.29,
+    "onchain": 0.13,
+    "lstm": 0.29,
+    "valuation_score": 92.65,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2011-01-09",
+    "actual": 0.31,
+    "onchain": 0.13,
+    "lstm": 0.31,
+    "valuation_score": 92.95,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2011-01-16",
+    "actual": 0.35,
+    "onchain": 0.14,
+    "lstm": 0.33,
+    "valuation_score": 94.97,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2011-01-23",
+    "actual": 0.38,
+    "onchain": 0.15,
+    "lstm": 0.37,
+    "valuation_score": 94.81,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2011-01-30",
+    "actual": 0.43,
+    "onchain": 0.19,
+    "lstm": 0.42,
+    "valuation_score": 93.52,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2011-02-06",
+    "actual": 0.75,
+    "onchain": 0.22,
+    "lstm": 0.69,
+    "valuation_score": 99.27,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2011-02-13",
+    "actual": 1.0,
+    "onchain": 0.27,
+    "lstm": 0.99,
+    "valuation_score": 99.57,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2011-02-20",
+    "actual": 0.99,
+    "onchain": 0.31,
+    "lstm": 1.01,
+    "valuation_score": 99.42,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2011-02-27",
+    "actual": 0.91,
+    "onchain": 0.33,
+    "lstm": 0.92,
+    "valuation_score": 98.86,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2011-03-06",
+    "actual": 0.91,
+    "onchain": 0.4,
+    "lstm": 0.93,
+    "valuation_score": 92.42,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2011-03-13",
+    "actual": 0.89,
+    "onchain": 0.42,
+    "lstm": 0.9,
+    "valuation_score": 89.2,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2011-03-20",
+    "actual": 0.82,
+    "onchain": 0.44,
+    "lstm": 0.84,
+    "valuation_score": 82.3,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2011-03-27",
+    "actual": 0.84,
+    "onchain": 0.45,
+    "lstm": 0.83,
+    "valuation_score": 81.55,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2011-04-03",
+    "actual": 0.79,
+    "onchain": 0.46,
+    "lstm": 0.79,
+    "valuation_score": 76.02,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2011-04-10",
+    "actual": 0.73,
+    "onchain": 0.47,
+    "lstm": 0.73,
+    "valuation_score": 70.75,
+    "signal": "Sell"
+  },
+  {
+    "date": "2011-04-17",
+    "actual": 0.96,
+    "onchain": 0.49,
+    "lstm": 0.9,
+    "valuation_score": 84.4,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2011-04-24",
+    "actual": 1.36,
+    "onchain": 0.54,
+    "lstm": 1.27,
+    "valuation_score": 94.29,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2011-05-01",
+    "actual": 2.42,
+    "onchain": 0.72,
+    "lstm": 2.21,
+    "valuation_score": 98.88,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2011-05-08",
+    "actual": 3.47,
+    "onchain": 1.07,
+    "lstm": 3.42,
+    "valuation_score": 99.07,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2011-05-15",
+    "actual": 6.19,
+    "onchain": 1.58,
+    "lstm": 5.61,
+    "valuation_score": 99.28,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2011-05-22",
+    "actual": 6.74,
+    "onchain": 2.21,
+    "lstm": 7.1,
+    "valuation_score": 98.44,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2011-05-29",
+    "actual": 8.16,
+    "onchain": 2.56,
+    "lstm": 8.19,
+    "valuation_score": 98.63,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2011-06-05",
+    "actual": 12.42,
+    "onchain": 3.17,
+    "lstm": 11.68,
+    "valuation_score": 98.65,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2011-06-12",
+    "actual": 22.44,
+    "onchain": 6.24,
+    "lstm": 22.17,
+    "valuation_score": 96.64,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2011-06-19",
+    "actual": 18.0,
+    "onchain": 9.22,
+    "lstm": 18.03,
+    "valuation_score": 83.72,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2011-06-26",
+    "actual": 17.35,
+    "onchain": 10.04,
+    "lstm": 18.51,
+    "valuation_score": 77.0,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2011-07-03",
+    "actual": 16.14,
+    "onchain": 10.58,
+    "lstm": 17.11,
+    "valuation_score": 69.77,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2011-07-10",
+    "actual": 14.23,
+    "onchain": 10.68,
+    "lstm": 14.73,
+    "valuation_score": 62.4,
+    "signal": "Sell"
+  },
+  {
+    "date": "2011-07-17",
+    "actual": 13.87,
+    "onchain": 10.82,
+    "lstm": 13.93,
+    "valuation_score": 60.49,
+    "signal": "Sell"
+  },
+  {
+    "date": "2011-07-24",
+    "actual": 13.73,
+    "onchain": 10.49,
+    "lstm": 13.61,
+    "valuation_score": 61.37,
+    "signal": "Sell"
+  },
+  {
+    "date": "2011-07-31",
+    "actual": 13.67,
+    "onchain": 10.55,
+    "lstm": 13.81,
+    "valuation_score": 60.85,
+    "signal": "Sell"
+  },
+  {
+    "date": "2011-08-07",
+    "actual": 10.07,
+    "onchain": 10.43,
+    "lstm": 10.9,
+    "valuation_score": 48.57,
+    "signal": "Sell"
+  },
+  {
+    "date": "2011-08-14",
+    "actual": 9.62,
+    "onchain": 10.11,
+    "lstm": 9.12,
+    "valuation_score": 48.08,
+    "signal": "Buy"
+  },
+  {
+    "date": "2011-08-21",
+    "actual": 11.2,
+    "onchain": 10.19,
+    "lstm": 10.9,
+    "valuation_score": 53.6,
+    "signal": "Hold"
+  },
+  {
+    "date": "2011-08-28",
+    "actual": 9.72,
+    "onchain": 10.12,
+    "lstm": 10.02,
+    "valuation_score": 48.25,
+    "signal": "Hold"
+  },
+  {
+    "date": "2011-09-04",
+    "actual": 8.5,
+    "onchain": 9.75,
+    "lstm": 9.02,
+    "valuation_score": 44.8,
+    "signal": "Hold"
+  },
+  {
+    "date": "2011-09-11",
+    "actual": 6.27,
+    "onchain": 9.6,
+    "lstm": 6.58,
+    "valuation_score": 36.42,
+    "signal": "Buy"
+  },
+  {
+    "date": "2011-09-18",
+    "actual": 5.31,
+    "onchain": 9.15,
+    "lstm": 5.29,
+    "valuation_score": 33.87,
+    "signal": "Buy"
+  },
+  {
+    "date": "2011-09-25",
+    "actual": 5.59,
+    "onchain": 9.07,
+    "lstm": 5.76,
+    "valuation_score": 35.76,
+    "signal": "Buy"
+  },
+  {
+    "date": "2011-10-02",
+    "actual": 4.93,
+    "onchain": 8.97,
+    "lstm": 4.9,
+    "valuation_score": 33.46,
+    "signal": "Buy"
+  },
+  {
+    "date": "2011-10-09",
+    "actual": 4.57,
+    "onchain": 8.89,
+    "lstm": 4.71,
+    "valuation_score": 32.28,
+    "signal": "Buy"
+  },
+  {
+    "date": "2011-10-16",
+    "actual": 3.96,
+    "onchain": 8.79,
+    "lstm": 4.13,
+    "valuation_score": 30.02,
+    "signal": "Buy"
+  },
+  {
+    "date": "2011-10-23",
+    "actual": 2.64,
+    "onchain": 8.6,
+    "lstm": 2.68,
+    "valuation_score": 25.21,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2011-10-30",
+    "actual": 3.02,
+    "onchain": 8.5,
+    "lstm": 3.0,
+    "valuation_score": 26.97,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2011-11-06",
+    "actual": 3.13,
+    "onchain": 8.44,
+    "lstm": 3.08,
+    "valuation_score": 27.79,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2011-11-13",
+    "actual": 2.99,
+    "onchain": 8.2,
+    "lstm": 2.98,
+    "valuation_score": 27.72,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2011-11-20",
+    "actual": 2.27,
+    "onchain": 7.66,
+    "lstm": 2.37,
+    "valuation_score": 26.35,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2011-11-27",
+    "actual": 2.4,
+    "onchain": 7.42,
+    "lstm": 2.43,
+    "valuation_score": 26.83,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2011-12-04",
+    "actual": 2.87,
+    "onchain": 7.34,
+    "lstm": 2.74,
+    "valuation_score": 29.13,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2011-12-11",
+    "actual": 3.02,
+    "onchain": 7.3,
+    "lstm": 2.88,
+    "valuation_score": 30.13,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2011-12-18",
+    "actual": 3.2,
+    "onchain": 7.28,
+    "lstm": 3.24,
+    "valuation_score": 31.34,
+    "signal": "Buy"
+  },
+  {
+    "date": "2011-12-25",
+    "actual": 3.91,
+    "onchain": 7.32,
+    "lstm": 3.77,
+    "valuation_score": 34.98,
+    "signal": "Buy"
+  },
+  {
+    "date": "2012-01-01",
+    "actual": 4.4,
+    "onchain": 7.35,
+    "lstm": 4.24,
+    "valuation_score": 37.35,
+    "signal": "Buy"
+  },
+  {
+    "date": "2012-01-08",
+    "actual": 6.16,
+    "onchain": 7.48,
+    "lstm": 5.93,
+    "valuation_score": 45.38,
+    "signal": "Buy"
+  },
+  {
+    "date": "2012-01-15",
+    "actual": 6.68,
+    "onchain": 7.67,
+    "lstm": 6.64,
+    "valuation_score": 47.06,
+    "signal": "Hold"
+  },
+  {
+    "date": "2012-01-22",
+    "actual": 6.22,
+    "onchain": 7.74,
+    "lstm": 6.55,
+    "valuation_score": 44.65,
+    "signal": "Hold"
+  },
+  {
+    "date": "2012-01-29",
+    "actual": 5.74,
+    "onchain": 7.74,
+    "lstm": 5.87,
+    "valuation_score": 42.38,
+    "signal": "Hold"
+  },
+  {
+    "date": "2012-02-05",
+    "actual": 5.82,
+    "onchain": 7.72,
+    "lstm": 5.76,
+    "valuation_score": 42.8,
+    "signal": "Buy"
+  },
+  {
+    "date": "2012-02-12",
+    "actual": 5.67,
+    "onchain": 7.71,
+    "lstm": 5.68,
+    "valuation_score": 42.03,
+    "signal": "Buy"
+  },
+  {
+    "date": "2012-02-19",
+    "actual": 4.49,
+    "onchain": 7.55,
+    "lstm": 4.64,
+    "valuation_score": 36.8,
+    "signal": "Buy"
+  },
+  {
+    "date": "2012-02-26",
+    "actual": 4.69,
+    "onchain": 7.48,
+    "lstm": 4.67,
+    "valuation_score": 37.99,
+    "signal": "Buy"
+  },
+  {
+    "date": "2012-03-04",
+    "actual": 4.83,
+    "onchain": 7.44,
+    "lstm": 4.75,
+    "valuation_score": 38.73,
+    "signal": "Buy"
+  },
+  {
+    "date": "2012-03-11",
+    "actual": 4.92,
+    "onchain": 7.42,
+    "lstm": 5.05,
+    "valuation_score": 39.23,
+    "signal": "Buy"
+  },
+  {
+    "date": "2012-03-18",
+    "actual": 5.25,
+    "onchain": 7.44,
+    "lstm": 5.19,
+    "valuation_score": 40.86,
+    "signal": "Buy"
+  },
+  {
+    "date": "2012-03-25",
+    "actual": 4.71,
+    "onchain": 7.4,
+    "lstm": 4.74,
+    "valuation_score": 37.97,
+    "signal": "Buy"
+  },
+  {
+    "date": "2012-04-01",
+    "actual": 4.8,
+    "onchain": 7.33,
+    "lstm": 4.8,
+    "valuation_score": 38.64,
+    "signal": "Buy"
+  },
+  {
+    "date": "2012-04-08",
+    "actual": 4.89,
+    "onchain": 7.25,
+    "lstm": 4.92,
+    "valuation_score": 39.39,
+    "signal": "Buy"
+  },
+  {
+    "date": "2012-04-15",
+    "actual": 4.91,
+    "onchain": 7.26,
+    "lstm": 4.85,
+    "valuation_score": 39.55,
+    "signal": "Buy"
+  },
+  {
+    "date": "2012-04-22",
+    "actual": 5.15,
+    "onchain": 7.29,
+    "lstm": 5.09,
+    "valuation_score": 40.79,
+    "signal": "Buy"
+  },
+  {
+    "date": "2012-04-29",
+    "actual": 5.06,
+    "onchain": 7.32,
+    "lstm": 5.09,
+    "valuation_score": 40.25,
+    "signal": "Buy"
+  },
+  {
+    "date": "2012-05-06",
+    "actual": 5.04,
+    "onchain": 7.3,
+    "lstm": 5.03,
+    "valuation_score": 40.15,
+    "signal": "Buy"
+  },
+  {
+    "date": "2012-05-13",
+    "actual": 4.99,
+    "onchain": 7.29,
+    "lstm": 5.01,
+    "valuation_score": 39.69,
+    "signal": "Buy"
+  },
+  {
+    "date": "2012-05-20",
+    "actual": 5.08,
+    "onchain": 7.27,
+    "lstm": 5.05,
+    "valuation_score": 40.04,
+    "signal": "Buy"
+  },
+  {
+    "date": "2012-05-27",
+    "actual": 5.12,
+    "onchain": 7.2,
+    "lstm": 5.1,
+    "valuation_score": 40.34,
+    "signal": "Buy"
+  },
+  {
+    "date": "2012-06-03",
+    "actual": 5.19,
+    "onchain": 7.16,
+    "lstm": 5.18,
+    "valuation_score": 40.71,
+    "signal": "Buy"
+  },
+  {
+    "date": "2012-06-10",
+    "actual": 5.48,
+    "onchain": 7.18,
+    "lstm": 5.46,
+    "valuation_score": 41.96,
+    "signal": "Buy"
+  },
+  {
+    "date": "2012-06-17",
+    "actual": 6.05,
+    "onchain": 7.25,
+    "lstm": 5.93,
+    "valuation_score": 44.38,
+    "signal": "Buy"
+  },
+  {
+    "date": "2012-06-24",
+    "actual": 6.5,
+    "onchain": 7.33,
+    "lstm": 6.46,
+    "valuation_score": 46.04,
+    "signal": "Hold"
+  },
+  {
+    "date": "2012-07-01",
+    "actual": 6.56,
+    "onchain": 7.38,
+    "lstm": 6.58,
+    "valuation_score": 45.86,
+    "signal": "Buy"
+  },
+  {
+    "date": "2012-07-08",
+    "actual": 6.66,
+    "onchain": 7.42,
+    "lstm": 6.67,
+    "valuation_score": 45.95,
+    "signal": "Hold"
+  },
+  {
+    "date": "2012-07-15",
+    "actual": 7.4,
+    "onchain": 7.42,
+    "lstm": 7.33,
+    "valuation_score": 49.53,
+    "signal": "Hold"
+  },
+  {
+    "date": "2012-07-22",
+    "actual": 8.73,
+    "onchain": 7.63,
+    "lstm": 8.58,
+    "valuation_score": 54.91,
+    "signal": "Hold"
+  },
+  {
+    "date": "2012-07-29",
+    "actual": 8.75,
+    "onchain": 7.77,
+    "lstm": 8.77,
+    "valuation_score": 53.86,
+    "signal": "Hold"
+  },
+  {
+    "date": "2012-08-05",
+    "actual": 10.17,
+    "onchain": 8.01,
+    "lstm": 9.92,
+    "valuation_score": 59.01,
+    "signal": "Hold"
+  },
+  {
+    "date": "2012-08-12",
+    "actual": 11.22,
+    "onchain": 8.3,
+    "lstm": 11.06,
+    "valuation_score": 62.0,
+    "signal": "Sell"
+  },
+  {
+    "date": "2012-08-19",
+    "actual": 11.75,
+    "onchain": 8.6,
+    "lstm": 12.23,
+    "valuation_score": 62.2,
+    "signal": "Sell"
+  },
+  {
+    "date": "2012-08-26",
+    "actual": 10.21,
+    "onchain": 8.76,
+    "lstm": 9.7,
+    "valuation_score": 54.43,
+    "signal": "Hold"
+  },
+  {
+    "date": "2012-09-02",
+    "actual": 10.54,
+    "onchain": 9.0,
+    "lstm": 10.43,
+    "valuation_score": 54.53,
+    "signal": "Sell"
+  },
+  {
+    "date": "2012-09-09",
+    "actual": 10.89,
+    "onchain": 9.14,
+    "lstm": 10.64,
+    "valuation_score": 55.08,
+    "signal": "Hold"
+  },
+  {
+    "date": "2012-09-16",
+    "actual": 11.49,
+    "onchain": 9.41,
+    "lstm": 11.33,
+    "valuation_score": 56.24,
+    "signal": "Sell"
+  },
+  {
+    "date": "2012-09-23",
+    "actual": 12.25,
+    "onchain": 9.65,
+    "lstm": 12.01,
+    "valuation_score": 58.19,
+    "signal": "Sell"
+  },
+  {
+    "date": "2012-09-30",
+    "actual": 12.3,
+    "onchain": 9.85,
+    "lstm": 12.2,
+    "valuation_score": 57.26,
+    "signal": "Sell"
+  },
+  {
+    "date": "2012-10-07",
+    "actual": 12.59,
+    "onchain": 10.04,
+    "lstm": 12.64,
+    "valuation_score": 57.35,
+    "signal": "Sell"
+  },
+  {
+    "date": "2012-10-14",
+    "actual": 11.91,
+    "onchain": 10.11,
+    "lstm": 11.95,
+    "valuation_score": 54.2,
+    "signal": "Hold"
+  },
+  {
+    "date": "2012-10-21",
+    "actual": 11.82,
+    "onchain": 10.19,
+    "lstm": 11.83,
+    "valuation_score": 53.51,
+    "signal": "Hold"
+  },
+  {
+    "date": "2012-10-28",
+    "actual": 11.02,
+    "onchain": 10.23,
+    "lstm": 11.18,
+    "valuation_score": 50.31,
+    "signal": "Hold"
+  },
+  {
+    "date": "2012-11-04",
+    "actual": 10.75,
+    "onchain": 10.23,
+    "lstm": 10.83,
+    "valuation_score": 49.39,
+    "signal": "Hold"
+  },
+  {
+    "date": "2012-11-11",
+    "actual": 10.85,
+    "onchain": 10.27,
+    "lstm": 10.88,
+    "valuation_score": 49.69,
+    "signal": "Hold"
+  },
+  {
+    "date": "2012-11-18",
+    "actual": 11.33,
+    "onchain": 10.36,
+    "lstm": 11.22,
+    "valuation_score": 51.18,
+    "signal": "Hold"
+  },
+  {
+    "date": "2012-11-25",
+    "actual": 12.1,
+    "onchain": 10.5,
+    "lstm": 12.0,
+    "valuation_score": 53.51,
+    "signal": "Hold"
+  },
+  {
+    "date": "2012-12-02",
+    "actual": 12.41,
+    "onchain": 10.64,
+    "lstm": 12.44,
+    "valuation_score": 54.1,
+    "signal": "Hold"
+  },
+  {
+    "date": "2012-12-09",
+    "actual": 13.31,
+    "onchain": 10.85,
+    "lstm": 13.17,
+    "valuation_score": 56.64,
+    "signal": "Hold"
+  },
+  {
+    "date": "2012-12-16",
+    "actual": 13.57,
+    "onchain": 11.04,
+    "lstm": 13.58,
+    "valuation_score": 56.74,
+    "signal": "Sell"
+  },
+  {
+    "date": "2012-12-23",
+    "actual": 13.41,
+    "onchain": 11.14,
+    "lstm": 13.43,
+    "valuation_score": 55.54,
+    "signal": "Sell"
+  },
+  {
+    "date": "2012-12-30",
+    "actual": 13.42,
+    "onchain": 11.2,
+    "lstm": 13.42,
+    "valuation_score": 55.16,
+    "signal": "Sell"
+  },
+  {
+    "date": "2013-01-06",
+    "actual": 13.42,
+    "onchain": 11.28,
+    "lstm": 13.42,
+    "valuation_score": 54.72,
+    "signal": "Sell"
+  },
+  {
+    "date": "2013-01-13",
+    "actual": 13.98,
+    "onchain": 11.4,
+    "lstm": 13.89,
+    "valuation_score": 56.08,
+    "signal": "Sell"
+  },
+  {
+    "date": "2013-01-20",
+    "actual": 15.14,
+    "onchain": 11.61,
+    "lstm": 14.9,
+    "valuation_score": 58.89,
+    "signal": "Sell"
+  },
+  {
+    "date": "2013-01-27",
+    "actual": 17.33,
+    "onchain": 12.07,
+    "lstm": 16.98,
+    "valuation_score": 63.92,
+    "signal": "Sell"
+  },
+  {
+    "date": "2013-02-03",
+    "actual": 19.89,
+    "onchain": 12.89,
+    "lstm": 19.54,
+    "valuation_score": 67.88,
+    "signal": "Sell"
+  },
+  {
+    "date": "2013-02-10",
+    "actual": 22.12,
+    "onchain": 13.61,
+    "lstm": 21.63,
+    "valuation_score": 70.71,
+    "signal": "Sell"
+  },
+  {
+    "date": "2013-02-17",
+    "actual": 26.12,
+    "onchain": 14.52,
+    "lstm": 25.81,
+    "valuation_score": 77.03,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2013-02-24",
+    "actual": 29.45,
+    "onchain": 15.61,
+    "lstm": 29.09,
+    "valuation_score": 80.11,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2013-03-03",
+    "actual": 32.76,
+    "onchain": 16.99,
+    "lstm": 32.03,
+    "valuation_score": 81.44,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2013-03-10",
+    "actual": 42.73,
+    "onchain": 19.19,
+    "lstm": 41.16,
+    "valuation_score": 88.17,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2013-03-17",
+    "actual": 46.86,
+    "onchain": 21.21,
+    "lstm": 46.69,
+    "valuation_score": 87.81,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2013-03-24",
+    "actual": 64.48,
+    "onchain": 24.7,
+    "lstm": 61.27,
+    "valuation_score": 94.57,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2013-03-31",
+    "actual": 86.55,
+    "onchain": 30.51,
+    "lstm": 83.59,
+    "valuation_score": 96.48,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2013-04-07",
+    "actual": 133.32,
+    "onchain": 42.1,
+    "lstm": 123.28,
+    "valuation_score": 96.8,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2013-04-14",
+    "actual": 137.01,
+    "onchain": 58.87,
+    "lstm": 149.59,
+    "valuation_score": 81.31,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2013-04-21",
+    "actual": 102.34,
+    "onchain": 58.68,
+    "lstm": 102.13,
+    "valuation_score": 73.78,
+    "signal": "Sell"
+  },
+  {
+    "date": "2013-04-28",
+    "actual": 137.66,
+    "onchain": 65.81,
+    "lstm": 138.78,
+    "valuation_score": 85.33,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2013-05-05",
+    "actual": 118.67,
+    "onchain": 68.97,
+    "lstm": 116.52,
+    "valuation_score": 72.97,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2013-05-12",
+    "actual": 113.84,
+    "onchain": 69.39,
+    "lstm": 108.64,
+    "valuation_score": 69.9,
+    "signal": "Sell"
+  },
+  {
+    "date": "2013-05-19",
+    "actual": 114.24,
+    "onchain": 70.28,
+    "lstm": 115.33,
+    "valuation_score": 69.08,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2013-05-26",
+    "actual": 123.68,
+    "onchain": 71.78,
+    "lstm": 120.97,
+    "valuation_score": 72.53,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2013-06-02",
+    "actual": 126.8,
+    "onchain": 73.82,
+    "lstm": 124.79,
+    "valuation_score": 72.23,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2013-06-09",
+    "actual": 114.62,
+    "onchain": 75.17,
+    "lstm": 117.17,
+    "valuation_score": 64.92,
+    "signal": "Sell"
+  },
+  {
+    "date": "2013-06-16",
+    "actual": 102.53,
+    "onchain": 75.4,
+    "lstm": 103.17,
+    "valuation_score": 58.8,
+    "signal": "Sell"
+  },
+  {
+    "date": "2013-06-23",
+    "actual": 102.13,
+    "onchain": 75.44,
+    "lstm": 102.06,
+    "valuation_score": 58.54,
+    "signal": "Sell"
+  },
+  {
+    "date": "2013-06-30",
+    "actual": 94.29,
+    "onchain": 75.42,
+    "lstm": 95.49,
+    "valuation_score": 54.49,
+    "signal": "Sell"
+  },
+  {
+    "date": "2013-07-07",
+    "actual": 76.2,
+    "onchain": 74.67,
+    "lstm": 79.09,
+    "valuation_score": 45.22,
+    "signal": "Hold"
+  },
+  {
+    "date": "2013-07-14",
+    "actual": 84.7,
+    "onchain": 74.36,
+    "lstm": 81.22,
+    "valuation_score": 50.68,
+    "signal": "Buy"
+  },
+  {
+    "date": "2013-07-21",
+    "actual": 88.34,
+    "onchain": 74.72,
+    "lstm": 87.86,
+    "valuation_score": 52.57,
+    "signal": "Sell"
+  },
+  {
+    "date": "2013-07-28",
+    "actual": 88.83,
+    "onchain": 74.65,
+    "lstm": 85.04,
+    "valuation_score": 52.98,
+    "signal": "Hold"
+  },
+  {
+    "date": "2013-08-04",
+    "actual": 96.07,
+    "onchain": 75.43,
+    "lstm": 96.9,
+    "valuation_score": 56.18,
+    "signal": "Sell"
+  },
+  {
+    "date": "2013-08-11",
+    "actual": 95.22,
+    "onchain": 76.39,
+    "lstm": 96.02,
+    "valuation_score": 55.28,
+    "signal": "Sell"
+  },
+  {
+    "date": "2013-08-18",
+    "actual": 98.22,
+    "onchain": 77.16,
+    "lstm": 96.64,
+    "valuation_score": 56.48,
+    "signal": "Sell"
+  },
+  {
+    "date": "2013-08-25",
+    "actual": 108.18,
+    "onchain": 78.18,
+    "lstm": 107.26,
+    "valuation_score": 60.74,
+    "signal": "Sell"
+  },
+  {
+    "date": "2013-09-01",
+    "actual": 121.55,
+    "onchain": 79.69,
+    "lstm": 118.7,
+    "valuation_score": 66.1,
+    "signal": "Sell"
+  },
+  {
+    "date": "2013-09-08",
+    "actual": 122.77,
+    "onchain": 81.69,
+    "lstm": 124.44,
+    "valuation_score": 65.37,
+    "signal": "Sell"
+  },
+  {
+    "date": "2013-09-15",
+    "actual": 124.88,
+    "onchain": 83.11,
+    "lstm": 123.6,
+    "valuation_score": 65.35,
+    "signal": "Sell"
+  },
+  {
+    "date": "2013-09-22",
+    "actual": 124.82,
+    "onchain": 84.67,
+    "lstm": 125.91,
+    "valuation_score": 64.25,
+    "signal": "Sell"
+  },
+  {
+    "date": "2013-09-29",
+    "actual": 125.07,
+    "onchain": 85.75,
+    "lstm": 124.13,
+    "valuation_score": 63.54,
+    "signal": "Sell"
+  },
+  {
+    "date": "2013-10-06",
+    "actual": 120.16,
+    "onchain": 86.37,
+    "lstm": 121.22,
+    "valuation_score": 60.9,
+    "signal": "Sell"
+  },
+  {
+    "date": "2013-10-13",
+    "actual": 126.98,
+    "onchain": 87.89,
+    "lstm": 124.34,
+    "valuation_score": 62.85,
+    "signal": "Sell"
+  },
+  {
+    "date": "2013-10-20",
+    "actual": 149.14,
+    "onchain": 90.3,
+    "lstm": 144.66,
+    "valuation_score": 70.43,
+    "signal": "Sell"
+  },
+  {
+    "date": "2013-10-27",
+    "actual": 189.9,
+    "onchain": 99.3,
+    "lstm": 186.1,
+    "valuation_score": 80.04,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2013-11-03",
+    "actual": 202.86,
+    "onchain": 105.96,
+    "lstm": 201.3,
+    "valuation_score": 80.24,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2013-11-10",
+    "actual": 288.3,
+    "onchain": 119.36,
+    "lstm": 273.26,
+    "valuation_score": 91.23,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2013-11-17",
+    "actual": 405.44,
+    "onchain": 142.01,
+    "lstm": 376.97,
+    "valuation_score": 96.24,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2013-11-24",
+    "actual": 709.31,
+    "onchain": 196.69,
+    "lstm": 657.3,
+    "valuation_score": 96.89,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2013-12-01",
+    "actual": 987.88,
+    "onchain": 297.79,
+    "lstm": 988.46,
+    "valuation_score": 96.87,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2013-12-08",
+    "actual": 938.38,
+    "onchain": 360.88,
+    "lstm": 957.15,
+    "valuation_score": 91.62,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2013-12-15",
+    "actual": 888.3,
+    "onchain": 382.43,
+    "lstm": 859.23,
+    "valuation_score": 89.62,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2013-12-22",
+    "actual": 626.35,
+    "onchain": 387.34,
+    "lstm": 694.55,
+    "valuation_score": 68.82,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2013-12-29",
+    "actual": 700.37,
+    "onchain": 397.99,
+    "lstm": 681.21,
+    "valuation_score": 73.97,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2014-01-05",
+    "actual": 791.57,
+    "onchain": 407.71,
+    "lstm": 766.68,
+    "valuation_score": 80.07,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2014-01-12",
+    "actual": 851.13,
+    "onchain": 427.12,
+    "lstm": 840.07,
+    "valuation_score": 81.68,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2014-01-19",
+    "actual": 819.45,
+    "onchain": 439.7,
+    "lstm": 819.37,
+    "valuation_score": 77.35,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2014-01-26",
+    "actual": 811.79,
+    "onchain": 447.18,
+    "lstm": 821.3,
+    "valuation_score": 75.33,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2014-02-02",
+    "actual": 793.81,
+    "onchain": 452.78,
+    "lstm": 794.09,
+    "valuation_score": 72.88,
+    "signal": "Sell"
+  },
+  {
+    "date": "2014-02-09",
+    "actual": 747.4,
+    "onchain": 467.34,
+    "lstm": 766.64,
+    "valuation_score": 67.22,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2014-02-16",
+    "actual": 652.92,
+    "onchain": 470.9,
+    "lstm": 666.7,
+    "valuation_score": 58.97,
+    "signal": "Sell"
+  },
+  {
+    "date": "2014-02-23",
+    "actual": 606.21,
+    "onchain": 469.99,
+    "lstm": 609.45,
+    "valuation_score": 55.13,
+    "signal": "Sell"
+  },
+  {
+    "date": "2014-03-02",
+    "actual": 560.9,
+    "onchain": 464.15,
+    "lstm": 569.56,
+    "valuation_score": 52.12,
+    "signal": "Hold"
+  },
+  {
+    "date": "2014-03-09",
+    "actual": 654.71,
+    "onchain": 474.64,
+    "lstm": 642.59,
+    "valuation_score": 59.45,
+    "signal": "Sell"
+  },
+  {
+    "date": "2014-03-16",
+    "actual": 634.09,
+    "onchain": 494.77,
+    "lstm": 639.87,
+    "valuation_score": 55.94,
+    "signal": "Sell"
+  },
+  {
+    "date": "2014-03-23",
+    "actual": 589.65,
+    "onchain": 496.62,
+    "lstm": 593.03,
+    "valuation_score": 52.27,
+    "signal": "Hold"
+  },
+  {
+    "date": "2014-03-30",
+    "actual": 525.48,
+    "onchain": 497.09,
+    "lstm": 548.86,
+    "valuation_score": 46.85,
+    "signal": "Hold"
+  },
+  {
+    "date": "2014-04-06",
+    "actual": 456.12,
+    "onchain": 492.61,
+    "lstm": 455.01,
+    "valuation_score": 41.33,
+    "signal": "Buy"
+  },
+  {
+    "date": "2014-04-13",
+    "actual": 424.83,
+    "onchain": 488.32,
+    "lstm": 432.06,
+    "valuation_score": 39.17,
+    "signal": "Buy"
+  },
+  {
+    "date": "2014-04-20",
+    "actual": 500.43,
+    "onchain": 488.9,
+    "lstm": 489.73,
+    "valuation_score": 46.11,
+    "signal": "Buy"
+  },
+  {
+    "date": "2014-04-27",
+    "actual": 477.98,
+    "onchain": 489.81,
+    "lstm": 484.27,
+    "valuation_score": 44.39,
+    "signal": "Hold"
+  },
+  {
+    "date": "2014-05-04",
+    "actual": 446.6,
+    "onchain": 488.83,
+    "lstm": 445.82,
+    "valuation_score": 42.04,
+    "signal": "Buy"
+  },
+  {
+    "date": "2014-05-11",
+    "actual": 441.95,
+    "onchain": 487.79,
+    "lstm": 439.55,
+    "valuation_score": 42.0,
+    "signal": "Buy"
+  },
+  {
+    "date": "2014-05-18",
+    "actual": 445.29,
+    "onchain": 487.16,
+    "lstm": 444.09,
+    "valuation_score": 42.55,
+    "signal": "Buy"
+  },
+  {
+    "date": "2014-05-25",
+    "actual": 511.88,
+    "onchain": 488.71,
+    "lstm": 496.62,
+    "valuation_score": 47.87,
+    "signal": "Buy"
+  },
+  {
+    "date": "2014-06-01",
+    "actual": 598.16,
+    "onchain": 497.7,
+    "lstm": 585.08,
+    "valuation_score": 53.72,
+    "signal": "Hold"
+  },
+  {
+    "date": "2014-06-08",
+    "actual": 658.01,
+    "onchain": 506.17,
+    "lstm": 655.52,
+    "valuation_score": 57.61,
+    "signal": "Sell"
+  },
+  {
+    "date": "2014-06-15",
+    "actual": 612.15,
+    "onchain": 514.38,
+    "lstm": 625.91,
+    "valuation_score": 53.53,
+    "signal": "Sell"
+  },
+  {
+    "date": "2014-06-22",
+    "actual": 598.14,
+    "onchain": 519.04,
+    "lstm": 595.29,
+    "valuation_score": 52.15,
+    "signal": "Hold"
+  },
+  {
+    "date": "2014-06-29",
+    "actual": 586.91,
+    "onchain": 521.08,
+    "lstm": 584.86,
+    "valuation_score": 51.18,
+    "signal": "Hold"
+  },
+  {
+    "date": "2014-07-06",
+    "actual": 639.34,
+    "onchain": 526.64,
+    "lstm": 632.31,
+    "valuation_score": 54.53,
+    "signal": "Hold"
+  },
+  {
+    "date": "2014-07-13",
+    "actual": 626.79,
+    "onchain": 529.85,
+    "lstm": 626.46,
+    "valuation_score": 53.27,
+    "signal": "Hold"
+  },
+  {
+    "date": "2014-07-20",
+    "actual": 623.85,
+    "onchain": 531.88,
+    "lstm": 626.6,
+    "valuation_score": 52.81,
+    "signal": "Hold"
+  },
+  {
+    "date": "2014-07-27",
+    "actual": 607.38,
+    "onchain": 534.07,
+    "lstm": 613.76,
+    "valuation_score": 51.41,
+    "signal": "Hold"
+  },
+  {
+    "date": "2014-08-03",
+    "actual": 584.22,
+    "onchain": 534.84,
+    "lstm": 588.05,
+    "valuation_score": 49.68,
+    "signal": "Hold"
+  },
+  {
+    "date": "2014-08-10",
+    "actual": 586.45,
+    "onchain": 539.25,
+    "lstm": 587.03,
+    "valuation_score": 49.46,
+    "signal": "Hold"
+  },
+  {
+    "date": "2014-08-17",
+    "actual": 530.72,
+    "onchain": 539.58,
+    "lstm": 543.13,
+    "valuation_score": 45.54,
+    "signal": "Hold"
+  },
+  {
+    "date": "2014-08-24",
+    "actual": 501.7,
+    "onchain": 537.53,
+    "lstm": 499.45,
+    "valuation_score": 43.58,
+    "signal": "Buy"
+  },
+  {
+    "date": "2014-08-31",
+    "actual": 502.65,
+    "onchain": 535.84,
+    "lstm": 506.3,
+    "valuation_score": 43.8,
+    "signal": "Buy"
+  },
+  {
+    "date": "2014-09-07",
+    "actual": 478.61,
+    "onchain": 534.37,
+    "lstm": 475.96,
+    "valuation_score": 42.13,
+    "signal": "Buy"
+  },
+  {
+    "date": "2014-09-14",
+    "actual": 475.02,
+    "onchain": 533.28,
+    "lstm": 474.95,
+    "valuation_score": 41.99,
+    "signal": "Buy"
+  },
+  {
+    "date": "2014-09-21",
+    "actual": 432.2,
+    "onchain": 530.86,
+    "lstm": 441.53,
+    "valuation_score": 38.74,
+    "signal": "Buy"
+  },
+  {
+    "date": "2014-09-28",
+    "actual": 407.72,
+    "onchain": 527.14,
+    "lstm": 412.04,
+    "valuation_score": 37.05,
+    "signal": "Buy"
+  },
+  {
+    "date": "2014-10-05",
+    "actual": 361.01,
+    "onchain": 522.3,
+    "lstm": 364.93,
+    "valuation_score": 33.36,
+    "signal": "Buy"
+  },
+  {
+    "date": "2014-10-12",
+    "actual": 353.6,
+    "onchain": 514.45,
+    "lstm": 348.21,
+    "valuation_score": 33.31,
+    "signal": "Buy"
+  },
+  {
+    "date": "2014-10-19",
+    "actual": 390.29,
+    "onchain": 513.39,
+    "lstm": 386.72,
+    "valuation_score": 36.85,
+    "signal": "Buy"
+  },
+  {
+    "date": "2014-10-26",
+    "actual": 365.84,
+    "onchain": 511.53,
+    "lstm": 372.12,
+    "valuation_score": 34.98,
+    "signal": "Buy"
+  },
+  {
+    "date": "2014-11-02",
+    "actual": 338.38,
+    "onchain": 508.25,
+    "lstm": 341.66,
+    "valuation_score": 32.84,
+    "signal": "Buy"
+  },
+  {
+    "date": "2014-11-09",
+    "actual": 342.14,
+    "onchain": 505.75,
+    "lstm": 338.78,
+    "valuation_score": 33.51,
+    "signal": "Buy"
+  },
+  {
+    "date": "2014-11-16",
+    "actual": 392.06,
+    "onchain": 506.8,
+    "lstm": 386.86,
+    "valuation_score": 37.89,
+    "signal": "Buy"
+  },
+  {
+    "date": "2014-11-23",
+    "actual": 366.59,
+    "onchain": 505.79,
+    "lstm": 365.34,
+    "valuation_score": 35.85,
+    "signal": "Buy"
+  },
+  {
+    "date": "2014-11-30",
+    "actual": 374.78,
+    "onchain": 502.56,
+    "lstm": 366.34,
+    "valuation_score": 36.8,
+    "signal": "Buy"
+  },
+  {
+    "date": "2014-12-07",
+    "actual": 376.72,
+    "onchain": 498.17,
+    "lstm": 376.19,
+    "valuation_score": 37.18,
+    "signal": "Buy"
+  },
+  {
+    "date": "2014-12-14",
+    "actual": 352.76,
+    "onchain": 492.15,
+    "lstm": 357.1,
+    "valuation_score": 35.44,
+    "signal": "Buy"
+  },
+  {
+    "date": "2014-12-21",
+    "actual": 325.55,
+    "onchain": 489.48,
+    "lstm": 330.52,
+    "valuation_score": 33.15,
+    "signal": "Buy"
+  },
+  {
+    "date": "2014-12-28",
+    "actual": 324.59,
+    "onchain": 484.87,
+    "lstm": 325.22,
+    "valuation_score": 33.33,
+    "signal": "Buy"
+  },
+  {
+    "date": "2015-01-04",
+    "actual": 303.41,
+    "onchain": 480.44,
+    "lstm": 310.06,
+    "valuation_score": 31.5,
+    "signal": "Buy"
+  },
+  {
+    "date": "2015-01-11",
+    "actual": 283.13,
+    "onchain": 475.66,
+    "lstm": 282.6,
+    "valuation_score": 29.66,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-01-18",
+    "actual": 214.18,
+    "onchain": 468.17,
+    "lstm": 219.32,
+    "valuation_score": 22.94,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-01-25",
+    "actual": 232.44,
+    "onchain": 463.17,
+    "lstm": 222.58,
+    "valuation_score": 25.42,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-02-01",
+    "actual": 240.25,
+    "onchain": 459.49,
+    "lstm": 243.92,
+    "valuation_score": 26.48,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-02-08",
+    "actual": 226.72,
+    "onchain": 456.63,
+    "lstm": 229.79,
+    "valuation_score": 25.39,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-02-15",
+    "actual": 230.34,
+    "onchain": 454.59,
+    "lstm": 231.15,
+    "valuation_score": 25.99,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-02-22",
+    "actual": 240.67,
+    "onchain": 453.42,
+    "lstm": 237.47,
+    "valuation_score": 27.15,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-03-01",
+    "actual": 246.42,
+    "onchain": 452.01,
+    "lstm": 246.53,
+    "valuation_score": 28.09,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-03-08",
+    "actual": 276.26,
+    "onchain": 451.23,
+    "lstm": 274.4,
+    "valuation_score": 31.59,
+    "signal": "Buy"
+  },
+  {
+    "date": "2015-03-15",
+    "actual": 290.25,
+    "onchain": 451.05,
+    "lstm": 286.12,
+    "valuation_score": 33.06,
+    "signal": "Buy"
+  },
+  {
+    "date": "2015-03-22",
+    "actual": 269.87,
+    "onchain": 450.31,
+    "lstm": 274.05,
+    "valuation_score": 31.12,
+    "signal": "Buy"
+  },
+  {
+    "date": "2015-03-29",
+    "actual": 250.49,
+    "onchain": 448.5,
+    "lstm": 254.42,
+    "valuation_score": 29.24,
+    "signal": "Buy"
+  },
+  {
+    "date": "2015-04-05",
+    "actual": 251.97,
+    "onchain": 446.57,
+    "lstm": 249.16,
+    "valuation_score": 29.47,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-04-12",
+    "actual": 244.47,
+    "onchain": 444.94,
+    "lstm": 247.43,
+    "valuation_score": 28.72,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-04-19",
+    "actual": 223.79,
+    "onchain": 441.35,
+    "lstm": 225.98,
+    "valuation_score": 26.38,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-04-26",
+    "actual": 229.71,
+    "onchain": 439.8,
+    "lstm": 229.49,
+    "valuation_score": 27.13,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-05-03",
+    "actual": 231.95,
+    "onchain": 438.75,
+    "lstm": 228.69,
+    "valuation_score": 27.39,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-05-10",
+    "actual": 238.49,
+    "onchain": 438.15,
+    "lstm": 239.96,
+    "valuation_score": 28.11,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-05-17",
+    "actual": 238.32,
+    "onchain": 437.07,
+    "lstm": 239.24,
+    "valuation_score": 28.05,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-05-24",
+    "actual": 236.37,
+    "onchain": 436.18,
+    "lstm": 236.73,
+    "valuation_score": 27.85,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-05-31",
+    "actual": 235.26,
+    "onchain": 434.81,
+    "lstm": 237.14,
+    "valuation_score": 27.77,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-06-07",
+    "actual": 224.38,
+    "onchain": 432.14,
+    "lstm": 225.56,
+    "valuation_score": 26.58,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-06-14",
+    "actual": 230.24,
+    "onchain": 431.04,
+    "lstm": 229.28,
+    "valuation_score": 27.4,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-06-21",
+    "actual": 245.7,
+    "onchain": 430.78,
+    "lstm": 244.29,
+    "valuation_score": 29.3,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-06-28",
+    "actual": 245.37,
+    "onchain": 430.41,
+    "lstm": 244.91,
+    "valuation_score": 29.21,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-07-05",
+    "actual": 260.17,
+    "onchain": 430.28,
+    "lstm": 257.76,
+    "valuation_score": 30.77,
+    "signal": "Buy"
+  },
+  {
+    "date": "2015-07-12",
+    "actual": 280.97,
+    "onchain": 430.33,
+    "lstm": 275.03,
+    "valuation_score": 32.67,
+    "signal": "Buy"
+  },
+  {
+    "date": "2015-07-19",
+    "actual": 282.51,
+    "onchain": 430.94,
+    "lstm": 288.48,
+    "valuation_score": 32.37,
+    "signal": "Buy"
+  },
+  {
+    "date": "2015-07-26",
+    "actual": 283.21,
+    "onchain": 430.48,
+    "lstm": 281.17,
+    "valuation_score": 32.26,
+    "signal": "Buy"
+  },
+  {
+    "date": "2015-08-02",
+    "actual": 288.09,
+    "onchain": 430.82,
+    "lstm": 287.43,
+    "valuation_score": 32.58,
+    "signal": "Buy"
+  },
+  {
+    "date": "2015-08-09",
+    "actual": 276.58,
+    "onchain": 430.1,
+    "lstm": 280.17,
+    "valuation_score": 31.06,
+    "signal": "Buy"
+  },
+  {
+    "date": "2015-08-16",
+    "actual": 265.2,
+    "onchain": 427.66,
+    "lstm": 267.1,
+    "valuation_score": 29.92,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-08-23",
+    "actual": 232.96,
+    "onchain": 424.86,
+    "lstm": 237.59,
+    "valuation_score": 26.74,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-08-30",
+    "actual": 225.24,
+    "onchain": 420.12,
+    "lstm": 225.72,
+    "valuation_score": 26.09,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-09-06",
+    "actual": 231.88,
+    "onchain": 418.71,
+    "lstm": 226.71,
+    "valuation_score": 26.95,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-09-13",
+    "actual": 238.58,
+    "onchain": 418.16,
+    "lstm": 236.91,
+    "valuation_score": 27.7,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-09-20",
+    "actual": 231.48,
+    "onchain": 417.26,
+    "lstm": 232.28,
+    "valuation_score": 26.72,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-09-27",
+    "actual": 232.18,
+    "onchain": 416.53,
+    "lstm": 232.85,
+    "valuation_score": 26.79,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-10-04",
+    "actual": 238.5,
+    "onchain": 416.03,
+    "lstm": 237.74,
+    "valuation_score": 27.65,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-10-11",
+    "actual": 244.8,
+    "onchain": 415.64,
+    "lstm": 244.89,
+    "valuation_score": 28.57,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-10-18",
+    "actual": 257.51,
+    "onchain": 415.03,
+    "lstm": 255.24,
+    "valuation_score": 29.93,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2015-10-25",
+    "actual": 275.27,
+    "onchain": 415.98,
+    "lstm": 271.12,
+    "valuation_score": 31.7,
+    "signal": "Buy"
+  },
+  {
+    "date": "2015-11-01",
+    "actual": 310.58,
+    "onchain": 419.26,
+    "lstm": 304.22,
+    "valuation_score": 35.42,
+    "signal": "Buy"
+  },
+  {
+    "date": "2015-11-08",
+    "actual": 383.89,
+    "onchain": 430.0,
+    "lstm": 379.58,
+    "valuation_score": 41.82,
+    "signal": "Buy"
+  },
+  {
+    "date": "2015-11-15",
+    "actual": 336.43,
+    "onchain": 431.47,
+    "lstm": 345.8,
+    "valuation_score": 36.44,
+    "signal": "Buy"
+  },
+  {
+    "date": "2015-11-22",
+    "actual": 328.65,
+    "onchain": 431.51,
+    "lstm": 332.77,
+    "valuation_score": 35.19,
+    "signal": "Buy"
+  },
+  {
+    "date": "2015-11-29",
+    "actual": 345.1,
+    "onchain": 432.39,
+    "lstm": 338.39,
+    "valuation_score": 36.51,
+    "signal": "Buy"
+  },
+  {
+    "date": "2015-12-06",
+    "actual": 372.33,
+    "onchain": 435.03,
+    "lstm": 368.05,
+    "valuation_score": 38.65,
+    "signal": "Buy"
+  },
+  {
+    "date": "2015-12-13",
+    "actual": 423.8,
+    "onchain": 440.88,
+    "lstm": 417.79,
+    "valuation_score": 42.85,
+    "signal": "Buy"
+  },
+  {
+    "date": "2015-12-20",
+    "actual": 454.96,
+    "onchain": 447.55,
+    "lstm": 451.69,
+    "valuation_score": 44.62,
+    "signal": "Buy"
+  },
+  {
+    "date": "2015-12-27",
+    "actual": 438.3,
+    "onchain": 450.57,
+    "lstm": 446.41,
+    "valuation_score": 42.21,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-01-03",
+    "actual": 429.62,
+    "onchain": 451.86,
+    "lstm": 430.42,
+    "valuation_score": 41.17,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-01-10",
+    "actual": 444.08,
+    "onchain": 454.57,
+    "lstm": 441.27,
+    "valuation_score": 41.97,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-01-17",
+    "actual": 413.04,
+    "onchain": 456.63,
+    "lstm": 423.25,
+    "valuation_score": 38.1,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-01-24",
+    "actual": 394.83,
+    "onchain": 455.07,
+    "lstm": 385.84,
+    "valuation_score": 35.76,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-01-31",
+    "actual": 382.75,
+    "onchain": 454.06,
+    "lstm": 385.46,
+    "valuation_score": 33.45,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-02-07",
+    "actual": 376.59,
+    "onchain": 452.47,
+    "lstm": 379.17,
+    "valuation_score": 32.25,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-02-14",
+    "actual": 382.73,
+    "onchain": 452.45,
+    "lstm": 383.14,
+    "valuation_score": 32.38,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-02-21",
+    "actual": 420.21,
+    "onchain": 455.54,
+    "lstm": 414.78,
+    "valuation_score": 36.72,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-02-28",
+    "actual": 429.07,
+    "onchain": 458.23,
+    "lstm": 429.73,
+    "valuation_score": 36.76,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-03-06",
+    "actual": 417.42,
+    "onchain": 460.88,
+    "lstm": 423.51,
+    "valuation_score": 33.85,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-03-13",
+    "actual": 413.59,
+    "onchain": 461.71,
+    "lstm": 413.27,
+    "valuation_score": 33.26,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-03-20",
+    "actual": 413.72,
+    "onchain": 462.7,
+    "lstm": 415.21,
+    "valuation_score": 33.82,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-03-27",
+    "actual": 416.82,
+    "onchain": 463.96,
+    "lstm": 414.27,
+    "valuation_score": 34.64,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-04-03",
+    "actual": 417.79,
+    "onchain": 465.51,
+    "lstm": 420.36,
+    "valuation_score": 34.58,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-04-10",
+    "actual": 420.68,
+    "onchain": 467.37,
+    "lstm": 420.11,
+    "valuation_score": 34.62,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-04-17",
+    "actual": 427.67,
+    "onchain": 469.45,
+    "lstm": 426.98,
+    "valuation_score": 35.23,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-04-24",
+    "actual": 446.78,
+    "onchain": 471.45,
+    "lstm": 441.8,
+    "valuation_score": 37.39,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-05-01",
+    "actual": 456.24,
+    "onchain": 474.8,
+    "lstm": 456.28,
+    "valuation_score": 38.03,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-05-08",
+    "actual": 454.1,
+    "onchain": 476.46,
+    "lstm": 454.48,
+    "valuation_score": 37.23,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-05-15",
+    "actual": 457.18,
+    "onchain": 478.32,
+    "lstm": 456.65,
+    "valuation_score": 37.1,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-05-22",
+    "actual": 446.86,
+    "onchain": 480.67,
+    "lstm": 450.25,
+    "valuation_score": 35.15,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-05-29",
+    "actual": 475.02,
+    "onchain": 483.98,
+    "lstm": 461.25,
+    "valuation_score": 38.26,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-06-05",
+    "actual": 551.49,
+    "onchain": 493.9,
+    "lstm": 543.26,
+    "valuation_score": 45.62,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-06-12",
+    "actual": 597.17,
+    "onchain": 502.13,
+    "lstm": 583.22,
+    "valuation_score": 48.57,
+    "signal": "Hold"
+  },
+  {
+    "date": "2016-06-19",
+    "actual": 732.39,
+    "onchain": 524.18,
+    "lstm": 720.02,
+    "valuation_score": 56.95,
+    "signal": "Sell"
+  },
+  {
+    "date": "2016-06-26",
+    "actual": 654.01,
+    "onchain": 532.62,
+    "lstm": 687.35,
+    "valuation_score": 49.5,
+    "signal": "Sell"
+  },
+  {
+    "date": "2016-07-03",
+    "actual": 665.02,
+    "onchain": 536.5,
+    "lstm": 653.43,
+    "valuation_score": 49.7,
+    "signal": "Hold"
+  },
+  {
+    "date": "2016-07-10",
+    "actual": 661.81,
+    "onchain": 541.16,
+    "lstm": 664.14,
+    "valuation_score": 48.62,
+    "signal": "Hold"
+  },
+  {
+    "date": "2016-07-17",
+    "actual": 664.67,
+    "onchain": 544.88,
+    "lstm": 651.89,
+    "valuation_score": 48.2,
+    "signal": "Hold"
+  },
+  {
+    "date": "2016-07-24",
+    "actual": 664.75,
+    "onchain": 548.11,
+    "lstm": 668.77,
+    "valuation_score": 47.46,
+    "signal": "Hold"
+  },
+  {
+    "date": "2016-07-31",
+    "actual": 651.42,
+    "onchain": 550.71,
+    "lstm": 651.49,
+    "valuation_score": 45.42,
+    "signal": "Hold"
+  },
+  {
+    "date": "2016-08-07",
+    "actual": 579.17,
+    "onchain": 547.92,
+    "lstm": 586.29,
+    "valuation_score": 36.9,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-08-14",
+    "actual": 586.15,
+    "onchain": 547.95,
+    "lstm": 591.35,
+    "valuation_score": 37.12,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-08-21",
+    "actual": 575.49,
+    "onchain": 548.23,
+    "lstm": 572.99,
+    "valuation_score": 35.43,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-08-28",
+    "actual": 578.07,
+    "onchain": 549.94,
+    "lstm": 579.94,
+    "valuation_score": 35.24,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-09-04",
+    "actual": 583.05,
+    "onchain": 551.09,
+    "lstm": 577.38,
+    "valuation_score": 35.57,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-09-11",
+    "actual": 617.53,
+    "onchain": 553.92,
+    "lstm": 618.69,
+    "valuation_score": 39.07,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-09-18",
+    "actual": 608.52,
+    "onchain": 556.07,
+    "lstm": 608.06,
+    "valuation_score": 38.53,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-09-25",
+    "actual": 602.2,
+    "onchain": 557.73,
+    "lstm": 604.22,
+    "valuation_score": 38.22,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-10-02",
+    "actual": 608.26,
+    "onchain": 559.17,
+    "lstm": 606.27,
+    "valuation_score": 38.91,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-10-09",
+    "actual": 614.4,
+    "onchain": 561.22,
+    "lstm": 612.51,
+    "valuation_score": 39.28,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-10-16",
+    "actual": 636.13,
+    "onchain": 564.43,
+    "lstm": 629.42,
+    "valuation_score": 41.22,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-10-23",
+    "actual": 638.62,
+    "onchain": 567.87,
+    "lstm": 637.04,
+    "valuation_score": 41.19,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-10-30",
+    "actual": 681.8,
+    "onchain": 572.89,
+    "lstm": 673.83,
+    "valuation_score": 45.25,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-11-06",
+    "actual": 712.56,
+    "onchain": 579.02,
+    "lstm": 714.3,
+    "valuation_score": 47.27,
+    "signal": "Hold"
+  },
+  {
+    "date": "2016-11-13",
+    "actual": 710.87,
+    "onchain": 583.38,
+    "lstm": 710.72,
+    "valuation_score": 46.11,
+    "signal": "Hold"
+  },
+  {
+    "date": "2016-11-20",
+    "actual": 732.36,
+    "onchain": 588.69,
+    "lstm": 727.99,
+    "valuation_score": 47.0,
+    "signal": "Hold"
+  },
+  {
+    "date": "2016-11-27",
+    "actual": 737.88,
+    "onchain": 595.29,
+    "lstm": 734.2,
+    "valuation_score": 45.9,
+    "signal": "Hold"
+  },
+  {
+    "date": "2016-12-04",
+    "actual": 751.77,
+    "onchain": 601.81,
+    "lstm": 748.97,
+    "valuation_score": 45.55,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-12-11",
+    "actual": 766.04,
+    "onchain": 609.97,
+    "lstm": 763.1,
+    "valuation_score": 45.18,
+    "signal": "Buy"
+  },
+  {
+    "date": "2016-12-18",
+    "actual": 781.86,
+    "onchain": 615.51,
+    "lstm": 776.07,
+    "valuation_score": 45.27,
+    "signal": "Hold"
+  },
+  {
+    "date": "2016-12-25",
+    "actual": 854.25,
+    "onchain": 626.01,
+    "lstm": 836.46,
+    "valuation_score": 50.05,
+    "signal": "Hold"
+  },
+  {
+    "date": "2017-01-01",
+    "actual": 958.57,
+    "onchain": 642.95,
+    "lstm": 942.87,
+    "valuation_score": 56.51,
+    "signal": "Hold"
+  },
+  {
+    "date": "2017-01-08",
+    "actual": 984.73,
+    "onchain": 664.9,
+    "lstm": 999.78,
+    "valuation_score": 55.1,
+    "signal": "Sell"
+  },
+  {
+    "date": "2017-01-15",
+    "actual": 839.54,
+    "onchain": 669.51,
+    "lstm": 850.46,
+    "valuation_score": 42.06,
+    "signal": "Hold"
+  },
+  {
+    "date": "2017-01-22",
+    "actual": 894.64,
+    "onchain": 673.14,
+    "lstm": 890.49,
+    "valuation_score": 45.21,
+    "signal": "Buy"
+  },
+  {
+    "date": "2017-01-29",
+    "actual": 911.15,
+    "onchain": 680.09,
+    "lstm": 928.06,
+    "valuation_score": 45.3,
+    "signal": "Hold"
+  },
+  {
+    "date": "2017-02-05",
+    "actual": 992.53,
+    "onchain": 690.05,
+    "lstm": 962.28,
+    "valuation_score": 50.22,
+    "signal": "Hold"
+  },
+  {
+    "date": "2017-02-12",
+    "actual": 1018.05,
+    "onchain": 701.91,
+    "lstm": 1006.49,
+    "valuation_score": 50.33,
+    "signal": "Hold"
+  },
+  {
+    "date": "2017-02-19",
+    "actual": 1034.43,
+    "onchain": 710.64,
+    "lstm": 1030.34,
+    "valuation_score": 49.99,
+    "signal": "Hold"
+  },
+  {
+    "date": "2017-02-26",
+    "actual": 1150.7,
+    "onchain": 726.82,
+    "lstm": 1130.13,
+    "valuation_score": 56.64,
+    "signal": "Hold"
+  },
+  {
+    "date": "2017-03-05",
+    "actual": 1244.07,
+    "onchain": 746.87,
+    "lstm": 1216.32,
+    "valuation_score": 60.5,
+    "signal": "Sell"
+  },
+  {
+    "date": "2017-03-12",
+    "actual": 1195.63,
+    "onchain": 762.27,
+    "lstm": 1196.07,
+    "valuation_score": 54.65,
+    "signal": "Sell"
+  },
+  {
+    "date": "2017-03-19",
+    "actual": 1139.64,
+    "onchain": 775.37,
+    "lstm": 1173.4,
+    "valuation_score": 49.35,
+    "signal": "Sell"
+  },
+  {
+    "date": "2017-03-26",
+    "actual": 1011.66,
+    "onchain": 779.26,
+    "lstm": 1024.86,
+    "valuation_score": 40.58,
+    "signal": "Buy"
+  },
+  {
+    "date": "2017-04-02",
+    "actual": 1063.23,
+    "onchain": 786.76,
+    "lstm": 1043.56,
+    "valuation_score": 43.35,
+    "signal": "Buy"
+  },
+  {
+    "date": "2017-04-09",
+    "actual": 1172.4,
+    "onchain": 799.92,
+    "lstm": 1159.9,
+    "valuation_score": 49.08,
+    "signal": "Hold"
+  },
+  {
+    "date": "2017-04-16",
+    "actual": 1193.38,
+    "onchain": 812.1,
+    "lstm": 1191.75,
+    "valuation_score": 49.25,
+    "signal": "Hold"
+  },
+  {
+    "date": "2017-04-23",
+    "actual": 1225.75,
+    "onchain": 822.26,
+    "lstm": 1221.76,
+    "valuation_score": 50.07,
+    "signal": "Hold"
+  },
+  {
+    "date": "2017-04-30",
+    "actual": 1323.88,
+    "onchain": 837.9,
+    "lstm": 1299.37,
+    "valuation_score": 54.23,
+    "signal": "Hold"
+  },
+  {
+    "date": "2017-05-07",
+    "actual": 1512.77,
+    "onchain": 870.95,
+    "lstm": 1480.71,
+    "valuation_score": 62.5,
+    "signal": "Sell"
+  },
+  {
+    "date": "2017-05-14",
+    "actual": 1757.34,
+    "onchain": 918.65,
+    "lstm": 1712.94,
+    "valuation_score": 71.45,
+    "signal": "Sell"
+  },
+  {
+    "date": "2017-05-21",
+    "actual": 1893.97,
+    "onchain": 959.34,
+    "lstm": 1863.49,
+    "valuation_score": 73.21,
+    "signal": "Sell"
+  },
+  {
+    "date": "2017-05-28",
+    "actual": 2231.47,
+    "onchain": 1044.77,
+    "lstm": 2198.1,
+    "valuation_score": 78.31,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2017-06-04",
+    "actual": 2386.47,
+    "onchain": 1108.6,
+    "lstm": 2370.63,
+    "valuation_score": 78.83,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2017-06-11",
+    "actual": 2823.06,
+    "onchain": 1188.62,
+    "lstm": 2747.21,
+    "valuation_score": 83.74,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2017-06-18",
+    "actual": 2551.94,
+    "onchain": 1260.61,
+    "lstm": 2658.49,
+    "valuation_score": 75.02,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2017-06-25",
+    "actual": 2627.8,
+    "onchain": 1314.12,
+    "lstm": 2609.13,
+    "valuation_score": 74.2,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2017-07-02",
+    "actual": 2491.99,
+    "onchain": 1343.56,
+    "lstm": 2476.6,
+    "valuation_score": 66.79,
+    "signal": "Sell"
+  },
+  {
+    "date": "2017-07-09",
+    "actual": 2559.77,
+    "onchain": 1379.5,
+    "lstm": 2550.45,
+    "valuation_score": 66.41,
+    "signal": "Sell"
+  },
+  {
+    "date": "2017-07-16",
+    "actual": 2210.34,
+    "onchain": 1389.17,
+    "lstm": 2285.27,
+    "valuation_score": 52.66,
+    "signal": "Sell"
+  },
+  {
+    "date": "2017-07-23",
+    "actual": 2549.94,
+    "onchain": 1416.2,
+    "lstm": 2419.47,
+    "valuation_score": 62.8,
+    "signal": "Hold"
+  },
+  {
+    "date": "2017-07-30",
+    "actual": 2678.71,
+    "onchain": 1492.8,
+    "lstm": 2694.24,
+    "valuation_score": 62.97,
+    "signal": "Sell"
+  },
+  {
+    "date": "2017-08-06",
+    "actual": 2913.96,
+    "onchain": 1677.16,
+    "lstm": 2842.06,
+    "valuation_score": 62.89,
+    "signal": "Sell"
+  },
+  {
+    "date": "2017-08-13",
+    "actual": 3599.7,
+    "onchain": 1877.56,
+    "lstm": 3342.52,
+    "valuation_score": 72.96,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2017-08-20",
+    "actual": 4213.21,
+    "onchain": 2051.14,
+    "lstm": 4299.95,
+    "valuation_score": 77.97,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2017-08-27",
+    "actual": 4225.67,
+    "onchain": 2182.41,
+    "lstm": 4228.94,
+    "valuation_score": 74.73,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2017-09-03",
+    "actual": 4635.1,
+    "onchain": 2313.91,
+    "lstm": 4589.79,
+    "valuation_score": 77.15,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2017-09-10",
+    "actual": 4430.62,
+    "onchain": 2427.62,
+    "lstm": 4560.22,
+    "valuation_score": 70.52,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2017-09-17",
+    "actual": 3804.82,
+    "onchain": 2457.52,
+    "lstm": 3925.01,
+    "valuation_score": 57.16,
+    "signal": "Sell"
+  },
+  {
+    "date": "2017-09-24",
+    "actual": 3798.7,
+    "onchain": 2476.05,
+    "lstm": 3802.51,
+    "valuation_score": 56.25,
+    "signal": "Sell"
+  },
+  {
+    "date": "2017-10-01",
+    "actual": 4153.72,
+    "onchain": 2536.73,
+    "lstm": 4064.99,
+    "valuation_score": 61.62,
+    "signal": "Sell"
+  },
+  {
+    "date": "2017-10-08",
+    "actual": 4376.44,
+    "onchain": 2607.1,
+    "lstm": 4326.67,
+    "valuation_score": 63.35,
+    "signal": "Sell"
+  },
+  {
+    "date": "2017-10-15",
+    "actual": 5259.56,
+    "onchain": 2728.29,
+    "lstm": 5070.36,
+    "valuation_score": 73.4,
+    "signal": "Sell"
+  },
+  {
+    "date": "2017-10-22",
+    "actual": 5809.49,
+    "onchain": 2883.54,
+    "lstm": 5825.02,
+    "valuation_score": 76.56,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2017-10-29",
+    "actual": 5821.63,
+    "onchain": 3050.89,
+    "lstm": 5764.65,
+    "valuation_score": 72.21,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2017-11-05",
+    "actual": 6901.18,
+    "onchain": 3224.5,
+    "lstm": 6720.5,
+    "valuation_score": 78.87,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2017-11-12",
+    "actual": 6781.26,
+    "onchain": 3437.33,
+    "lstm": 6944.88,
+    "valuation_score": 72.94,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2017-11-19",
+    "actual": 7392.34,
+    "onchain": 3716.72,
+    "lstm": 7166.37,
+    "valuation_score": 74.68,
+    "signal": "Sell"
+  },
+  {
+    "date": "2017-11-26",
+    "actual": 8427.95,
+    "onchain": 4021.46,
+    "lstm": 8325.55,
+    "valuation_score": 78.28,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2017-12-03",
+    "actual": 10345.35,
+    "onchain": 4484.23,
+    "lstm": 10035.18,
+    "valuation_score": 82.83,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2017-12-10",
+    "actual": 14449.55,
+    "onchain": 5296.58,
+    "lstm": 14057.44,
+    "valuation_score": 88.83,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2017-12-17",
+    "actual": 17716.92,
+    "onchain": 6392.42,
+    "lstm": 17157.73,
+    "valuation_score": 89.71,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2017-12-24",
+    "actual": 15995.11,
+    "onchain": 7073.4,
+    "lstm": 17053.38,
+    "valuation_score": 80.5,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2017-12-31",
+    "actual": 14418.35,
+    "onchain": 7378.08,
+    "lstm": 14549.13,
+    "valuation_score": 70.81,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2018-01-07",
+    "actual": 15518.87,
+    "onchain": 7723.59,
+    "lstm": 15024.77,
+    "valuation_score": 71.96,
+    "signal": "Sell"
+  },
+  {
+    "date": "2018-01-14",
+    "actual": 14124.8,
+    "onchain": 8064.21,
+    "lstm": 14304.85,
+    "valuation_score": 59.25,
+    "signal": "Sell"
+  },
+  {
+    "date": "2018-01-21",
+    "actual": 11865.63,
+    "onchain": 8076.75,
+    "lstm": 12027.78,
+    "valuation_score": 45.34,
+    "signal": "Sell"
+  },
+  {
+    "date": "2018-01-28",
+    "actual": 11130.8,
+    "onchain": 8043.99,
+    "lstm": 11212.5,
+    "valuation_score": 40.82,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-02-04",
+    "actual": 9478.68,
+    "onchain": 7988.24,
+    "lstm": 10140.83,
+    "valuation_score": 31.56,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-02-11",
+    "actual": 7959.83,
+    "onchain": 7810.86,
+    "lstm": 8104.69,
+    "valuation_score": 24.67,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2018-02-18",
+    "actual": 9818.95,
+    "onchain": 7830.2,
+    "lstm": 9758.84,
+    "valuation_score": 34.45,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2018-02-25",
+    "actual": 10310.17,
+    "onchain": 7983.3,
+    "lstm": 10428.57,
+    "valuation_score": 36.55,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-03-04",
+    "actual": 10871.35,
+    "onchain": 8079.3,
+    "lstm": 10542.73,
+    "valuation_score": 40.03,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-03-11",
+    "actual": 9861.36,
+    "onchain": 8103.07,
+    "lstm": 10308.65,
+    "valuation_score": 34.87,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-03-18",
+    "actual": 8463.82,
+    "onchain": 8019.3,
+    "lstm": 8608.3,
+    "valuation_score": 28.62,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-03-25",
+    "actual": 8692.31,
+    "onchain": 7985.03,
+    "lstm": 8696.42,
+    "valuation_score": 32.75,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-04-01",
+    "actual": 7372.8,
+    "onchain": 7907.74,
+    "lstm": 7554.17,
+    "valuation_score": 25.77,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-04-08",
+    "actual": 6934.28,
+    "onchain": 7826.99,
+    "lstm": 7014.52,
+    "valuation_score": 25.39,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2018-04-15",
+    "actual": 7524.35,
+    "onchain": 7790.04,
+    "lstm": 7245.69,
+    "valuation_score": 33.0,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2018-04-22",
+    "actual": 8410.65,
+    "onchain": 7822.65,
+    "lstm": 8351.83,
+    "valuation_score": 41.74,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-04-29",
+    "actual": 9203.34,
+    "onchain": 7897.53,
+    "lstm": 9239.37,
+    "valuation_score": 47.21,
+    "signal": "Hold"
+  },
+  {
+    "date": "2018-05-06",
+    "actual": 9477.63,
+    "onchain": 7948.89,
+    "lstm": 9363.73,
+    "valuation_score": 48.64,
+    "signal": "Hold"
+  },
+  {
+    "date": "2018-05-13",
+    "actual": 8926.26,
+    "onchain": 7971.96,
+    "lstm": 9129.0,
+    "valuation_score": 45.25,
+    "signal": "Hold"
+  },
+  {
+    "date": "2018-05-20",
+    "actual": 8358.83,
+    "onchain": 8017.88,
+    "lstm": 8459.83,
+    "valuation_score": 41.61,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-05-27",
+    "actual": 7656.07,
+    "onchain": 8011.19,
+    "lstm": 7868.06,
+    "valuation_score": 36.83,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-06-03",
+    "actual": 7468.19,
+    "onchain": 7975.58,
+    "lstm": 7431.72,
+    "valuation_score": 36.37,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-06-10",
+    "actual": 7476.86,
+    "onchain": 7956.23,
+    "lstm": 7630.39,
+    "valuation_score": 37.12,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-06-17",
+    "actual": 6522.59,
+    "onchain": 7878.55,
+    "lstm": 6539.02,
+    "valuation_score": 29.61,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-06-24",
+    "actual": 6470.03,
+    "onchain": 7837.17,
+    "lstm": 6629.97,
+    "valuation_score": 29.78,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-07-01",
+    "actual": 6185.05,
+    "onchain": 7746.3,
+    "lstm": 6123.18,
+    "valuation_score": 27.86,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2018-07-08",
+    "actual": 6608.93,
+    "onchain": 7696.97,
+    "lstm": 6559.89,
+    "valuation_score": 31.98,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-07-15",
+    "actual": 6331.75,
+    "onchain": 7662.34,
+    "lstm": 6312.67,
+    "valuation_score": 29.57,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-07-22",
+    "actual": 7287.4,
+    "onchain": 7667.5,
+    "lstm": 7112.31,
+    "valuation_score": 38.1,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-07-29",
+    "actual": 8117.74,
+    "onchain": 7707.69,
+    "lstm": 7968.35,
+    "valuation_score": 43.49,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-08-05",
+    "actual": 7497.36,
+    "onchain": 7717.37,
+    "lstm": 7719.99,
+    "valuation_score": 39.69,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-08-12",
+    "actual": 6463.18,
+    "onchain": 7671.85,
+    "lstm": 6451.71,
+    "valuation_score": 32.49,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-08-19",
+    "actual": 6352.1,
+    "onchain": 7634.02,
+    "lstm": 6430.05,
+    "valuation_score": 32.16,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-08-26",
+    "actual": 6537.21,
+    "onchain": 7632.22,
+    "lstm": 6479.53,
+    "valuation_score": 34.05,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-09-02",
+    "actual": 7062.38,
+    "onchain": 7661.34,
+    "lstm": 6913.7,
+    "valuation_score": 37.8,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-09-09",
+    "actual": 6677.28,
+    "onchain": 7656.54,
+    "lstm": 6854.0,
+    "valuation_score": 34.63,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-09-16",
+    "actual": 6415.5,
+    "onchain": 7620.88,
+    "lstm": 6428.18,
+    "valuation_score": 32.79,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-09-23",
+    "actual": 6518.75,
+    "onchain": 7600.78,
+    "lstm": 6514.81,
+    "valuation_score": 33.35,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-09-30",
+    "actual": 6563.75,
+    "onchain": 7582.8,
+    "lstm": 6541.46,
+    "valuation_score": 33.23,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-10-07",
+    "actual": 6540.07,
+    "onchain": 7567.64,
+    "lstm": 6491.96,
+    "valuation_score": 32.58,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-10-14",
+    "actual": 6350.82,
+    "onchain": 7540.49,
+    "lstm": 6424.93,
+    "valuation_score": 30.44,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-10-21",
+    "actual": 6421.5,
+    "onchain": 7500.79,
+    "lstm": 6421.34,
+    "valuation_score": 31.21,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-10-28",
+    "actual": 6405.76,
+    "onchain": 7460.66,
+    "lstm": 6423.39,
+    "valuation_score": 31.55,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-11-04",
+    "actual": 6326.5,
+    "onchain": 7442.65,
+    "lstm": 6328.94,
+    "valuation_score": 30.94,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-11-11",
+    "actual": 6395.95,
+    "onchain": 7437.91,
+    "lstm": 6399.67,
+    "valuation_score": 31.14,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-11-18",
+    "actual": 5750.56,
+    "onchain": 7384.72,
+    "lstm": 5876.97,
+    "valuation_score": 25.2,
+    "signal": "Buy"
+  },
+  {
+    "date": "2018-11-25",
+    "actual": 4286.53,
+    "onchain": 7233.87,
+    "lstm": 4539.26,
+    "valuation_score": 13.11,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2018-12-02",
+    "actual": 4020.64,
+    "onchain": 7130.36,
+    "lstm": 4009.78,
+    "valuation_score": 11.48,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2018-12-09",
+    "actual": 3611.4,
+    "onchain": 7069.33,
+    "lstm": 3670.93,
+    "valuation_score": 8.32,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2018-12-16",
+    "actual": 3289.85,
+    "onchain": 6944.4,
+    "lstm": 3306.91,
+    "valuation_score": 6.36,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2018-12-23",
+    "actual": 3810.12,
+    "onchain": 6884.04,
+    "lstm": 3682.94,
+    "valuation_score": 11.77,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2018-12-30",
+    "actual": 3817.76,
+    "onchain": 6842.82,
+    "lstm": 3843.8,
+    "valuation_score": 12.56,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2019-01-06",
+    "actual": 3835.72,
+    "onchain": 6801.09,
+    "lstm": 3770.09,
+    "valuation_score": 13.41,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2019-01-13",
+    "actual": 3767.95,
+    "onchain": 6743.61,
+    "lstm": 3814.65,
+    "valuation_score": 13.41,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2019-01-20",
+    "actual": 3618.63,
+    "onchain": 6700.1,
+    "lstm": 3654.73,
+    "valuation_score": 12.46,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2019-01-27",
+    "actual": 3555.49,
+    "onchain": 6668.52,
+    "lstm": 3543.95,
+    "valuation_score": 12.45,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2019-02-03",
+    "actual": 3428.42,
+    "onchain": 6630.39,
+    "lstm": 3481.17,
+    "valuation_score": 11.97,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2019-02-10",
+    "actual": 3491.43,
+    "onchain": 6600.61,
+    "lstm": 3455.84,
+    "valuation_score": 13.58,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2019-02-17",
+    "actual": 3584.15,
+    "onchain": 6572.37,
+    "lstm": 3578.07,
+    "valuation_score": 15.37,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2019-02-24",
+    "actual": 3914.01,
+    "onchain": 6555.76,
+    "lstm": 3864.62,
+    "valuation_score": 18.83,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2019-03-03",
+    "actual": 3801.88,
+    "onchain": 6537.98,
+    "lstm": 3801.78,
+    "valuation_score": 17.35,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2019-03-10",
+    "actual": 3842.82,
+    "onchain": 6522.92,
+    "lstm": 3858.29,
+    "valuation_score": 17.53,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2019-03-17",
+    "actual": 3896.44,
+    "onchain": 6509.48,
+    "lstm": 3906.97,
+    "valuation_score": 17.86,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2019-03-24",
+    "actual": 3986.98,
+    "onchain": 6500.76,
+    "lstm": 3995.33,
+    "valuation_score": 18.67,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2019-03-31",
+    "actual": 4019.95,
+    "onchain": 6492.83,
+    "lstm": 4013.71,
+    "valuation_score": 18.74,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2019-04-07",
+    "actual": 4882.9,
+    "onchain": 6521.96,
+    "lstm": 4743.27,
+    "valuation_score": 27.03,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2019-04-14",
+    "actual": 5165.12,
+    "onchain": 6547.76,
+    "lstm": 5127.46,
+    "valuation_score": 28.62,
+    "signal": "Buy"
+  },
+  {
+    "date": "2019-04-21",
+    "actual": 5236.2,
+    "onchain": 6561.04,
+    "lstm": 5254.76,
+    "valuation_score": 27.89,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2019-04-28",
+    "actual": 5281.28,
+    "onchain": 6571.81,
+    "lstm": 5301.21,
+    "valuation_score": 27.09,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2019-05-05",
+    "actual": 5469.32,
+    "onchain": 6555.83,
+    "lstm": 5380.92,
+    "valuation_score": 27.71,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2019-05-12",
+    "actual": 6317.79,
+    "onchain": 6602.64,
+    "lstm": 6137.27,
+    "valuation_score": 34.52,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2019-05-19",
+    "actual": 7808.06,
+    "onchain": 6789.93,
+    "lstm": 7654.49,
+    "valuation_score": 45.08,
+    "signal": "Hold"
+  },
+  {
+    "date": "2019-05-26",
+    "actual": 8044.36,
+    "onchain": 6879.84,
+    "lstm": 7875.6,
+    "valuation_score": 44.93,
+    "signal": "Hold"
+  },
+  {
+    "date": "2019-06-02",
+    "actual": 8616.92,
+    "onchain": 7034.17,
+    "lstm": 8589.4,
+    "valuation_score": 46.68,
+    "signal": "Hold"
+  },
+  {
+    "date": "2019-06-09",
+    "actual": 7856.63,
+    "onchain": 7072.0,
+    "lstm": 8093.22,
+    "valuation_score": 38.06,
+    "signal": "Buy"
+  },
+  {
+    "date": "2019-06-16",
+    "actual": 8409.06,
+    "onchain": 7119.72,
+    "lstm": 8179.77,
+    "valuation_score": 40.72,
+    "signal": "Buy"
+  },
+  {
+    "date": "2019-06-23",
+    "actual": 9826.1,
+    "onchain": 7239.63,
+    "lstm": 9541.94,
+    "valuation_score": 49.45,
+    "signal": "Hold"
+  },
+  {
+    "date": "2019-06-30",
+    "actual": 11692.7,
+    "onchain": 7514.64,
+    "lstm": 11688.69,
+    "valuation_score": 58.7,
+    "signal": "Sell"
+  },
+  {
+    "date": "2019-07-07",
+    "actual": 11161.07,
+    "onchain": 7694.45,
+    "lstm": 11039.86,
+    "valuation_score": 51.84,
+    "signal": "Hold"
+  },
+  {
+    "date": "2019-07-14",
+    "actual": 11677.63,
+    "onchain": 7844.4,
+    "lstm": 11712.53,
+    "valuation_score": 52.88,
+    "signal": "Sell"
+  },
+  {
+    "date": "2019-07-21",
+    "actual": 10390.98,
+    "onchain": 7912.11,
+    "lstm": 10455.37,
+    "valuation_score": 42.86,
+    "signal": "Hold"
+  },
+  {
+    "date": "2019-07-28",
+    "actual": 9812.62,
+    "onchain": 7967.39,
+    "lstm": 9864.81,
+    "valuation_score": 38.37,
+    "signal": "Buy"
+  },
+  {
+    "date": "2019-08-04",
+    "actual": 10268.46,
+    "onchain": 8145.97,
+    "lstm": 10271.18,
+    "valuation_score": 39.72,
+    "signal": "Buy"
+  },
+  {
+    "date": "2019-08-11",
+    "actual": 11687.33,
+    "onchain": 8284.7,
+    "lstm": 11561.4,
+    "valuation_score": 46.75,
+    "signal": "Hold"
+  },
+  {
+    "date": "2019-08-18",
+    "actual": 10499.71,
+    "onchain": 8345.63,
+    "lstm": 10651.38,
+    "valuation_score": 39.01,
+    "signal": "Buy"
+  },
+  {
+    "date": "2019-08-25",
+    "actual": 10362.02,
+    "onchain": 8383.54,
+    "lstm": 10515.15,
+    "valuation_score": 37.81,
+    "signal": "Buy"
+  },
+  {
+    "date": "2019-09-01",
+    "actual": 9811.95,
+    "onchain": 8413.78,
+    "lstm": 9774.55,
+    "valuation_score": 34.4,
+    "signal": "Buy"
+  },
+  {
+    "date": "2019-09-08",
+    "actual": 10483.74,
+    "onchain": 8476.92,
+    "lstm": 10400.86,
+    "valuation_score": 37.82,
+    "signal": "Buy"
+  },
+  {
+    "date": "2019-09-15",
+    "actual": 10282.7,
+    "onchain": 8556.79,
+    "lstm": 10266.92,
+    "valuation_score": 35.9,
+    "signal": "Buy"
+  },
+  {
+    "date": "2019-09-22",
+    "actual": 10155.24,
+    "onchain": 8587.67,
+    "lstm": 10183.45,
+    "valuation_score": 35.03,
+    "signal": "Buy"
+  },
+  {
+    "date": "2019-09-29",
+    "actual": 8467.93,
+    "onchain": 8539.7,
+    "lstm": 8758.23,
+    "valuation_score": 25.47,
+    "signal": "Buy"
+  },
+  {
+    "date": "2019-10-06",
+    "actual": 8196.53,
+    "onchain": 8497.86,
+    "lstm": 8218.11,
+    "valuation_score": 24.47,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2019-10-13",
+    "actual": 8356.77,
+    "onchain": 8489.48,
+    "lstm": 8285.2,
+    "valuation_score": 26.2,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2019-10-20",
+    "actual": 8100.71,
+    "onchain": 8513.13,
+    "lstm": 8095.18,
+    "valuation_score": 24.81,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2019-10-27",
+    "actual": 8373.96,
+    "onchain": 8496.07,
+    "lstm": 8203.34,
+    "valuation_score": 26.85,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2019-11-03",
+    "actual": 9264.25,
+    "onchain": 8551.71,
+    "lstm": 9364.18,
+    "valuation_score": 32.49,
+    "signal": "Buy"
+  },
+  {
+    "date": "2019-11-10",
+    "actual": 9137.12,
+    "onchain": 8549.64,
+    "lstm": 9266.69,
+    "valuation_score": 32.16,
+    "signal": "Buy"
+  },
+  {
+    "date": "2019-11-17",
+    "actual": 8623.29,
+    "onchain": 8553.58,
+    "lstm": 8740.26,
+    "valuation_score": 29.29,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2019-11-24",
+    "actual": 7647.85,
+    "onchain": 8522.52,
+    "lstm": 7849.02,
+    "valuation_score": 23.6,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2019-12-01",
+    "actual": 7427.05,
+    "onchain": 8469.06,
+    "lstm": 7376.3,
+    "valuation_score": 22.92,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2019-12-08",
+    "actual": 7402.73,
+    "onchain": 8438.48,
+    "lstm": 7327.74,
+    "valuation_score": 23.52,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2019-12-15",
+    "actual": 7198.99,
+    "onchain": 8417.17,
+    "lstm": 7222.36,
+    "valuation_score": 22.86,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2019-12-22",
+    "actual": 7103.72,
+    "onchain": 8389.31,
+    "lstm": 6989.8,
+    "valuation_score": 22.88,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2019-12-29",
+    "actual": 7268.37,
+    "onchain": 8371.89,
+    "lstm": 7294.04,
+    "valuation_score": 24.49,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2020-01-05",
+    "actual": 7216.89,
+    "onchain": 8354.69,
+    "lstm": 7200.16,
+    "valuation_score": 24.56,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2020-01-12",
+    "actual": 8015.01,
+    "onchain": 8373.54,
+    "lstm": 7890.78,
+    "valuation_score": 29.96,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2020-01-19",
+    "actual": 8715.76,
+    "onchain": 8426.77,
+    "lstm": 8615.16,
+    "valuation_score": 34.25,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-01-26",
+    "actual": 8531.92,
+    "onchain": 8449.77,
+    "lstm": 8580.35,
+    "valuation_score": 32.98,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-02-02",
+    "actual": 9299.82,
+    "onchain": 8499.79,
+    "lstm": 9268.31,
+    "valuation_score": 37.93,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-02-09",
+    "actual": 9667.36,
+    "onchain": 8570.86,
+    "lstm": 9534.53,
+    "valuation_score": 40.12,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-02-16",
+    "actual": 10137.94,
+    "onchain": 8675.98,
+    "lstm": 10152.42,
+    "valuation_score": 42.5,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-02-23",
+    "actual": 9782.61,
+    "onchain": 8716.93,
+    "lstm": 9729.82,
+    "valuation_score": 39.06,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-03-01",
+    "actual": 8920.67,
+    "onchain": 8728.19,
+    "lstm": 9129.65,
+    "valuation_score": 32.97,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-03-08",
+    "actual": 8807.0,
+    "onchain": 8714.11,
+    "lstm": 8877.06,
+    "valuation_score": 31.96,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-03-15",
+    "actual": 6405.21,
+    "onchain": 8529.85,
+    "lstm": 6878.33,
+    "valuation_score": 17.6,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2020-03-22",
+    "actual": 5743.75,
+    "onchain": 8331.17,
+    "lstm": 5516.29,
+    "valuation_score": 13.92,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2020-03-29",
+    "actual": 6476.2,
+    "onchain": 8329.07,
+    "lstm": 6543.02,
+    "valuation_score": 18.64,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2020-04-05",
+    "actual": 6672.55,
+    "onchain": 8295.33,
+    "lstm": 6205.06,
+    "valuation_score": 20.4,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2020-04-12",
+    "actual": 7125.6,
+    "onchain": 8288.97,
+    "lstm": 7008.84,
+    "valuation_score": 23.78,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2020-04-19",
+    "actual": 6998.12,
+    "onchain": 8267.96,
+    "lstm": 7029.33,
+    "valuation_score": 23.43,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2020-04-26",
+    "actual": 7294.89,
+    "onchain": 8271.18,
+    "lstm": 7219.91,
+    "valuation_score": 25.74,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2020-05-03",
+    "actual": 8527.32,
+    "onchain": 8366.52,
+    "lstm": 8327.3,
+    "valuation_score": 33.79,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2020-05-10",
+    "actual": 9325.73,
+    "onchain": 8480.7,
+    "lstm": 9241.07,
+    "valuation_score": 39.11,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-05-17",
+    "actual": 9276.86,
+    "onchain": 8532.31,
+    "lstm": 9141.23,
+    "valuation_score": 39.05,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-05-24",
+    "actual": 9316.75,
+    "onchain": 8576.66,
+    "lstm": 9395.25,
+    "valuation_score": 39.72,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-05-31",
+    "actual": 9291.38,
+    "onchain": 8581.7,
+    "lstm": 9175.95,
+    "valuation_score": 40.05,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-06-07",
+    "actual": 9746.47,
+    "onchain": 8630.25,
+    "lstm": 9785.06,
+    "valuation_score": 43.23,
+    "signal": "Hold"
+  },
+  {
+    "date": "2020-06-14",
+    "actual": 9567.87,
+    "onchain": 8663.81,
+    "lstm": 9617.61,
+    "valuation_score": 41.17,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-06-21",
+    "actual": 9389.74,
+    "onchain": 8688.49,
+    "lstm": 9487.47,
+    "valuation_score": 38.29,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-06-28",
+    "actual": 9300.87,
+    "onchain": 8718.89,
+    "lstm": 9268.92,
+    "valuation_score": 36.44,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-07-05",
+    "actual": 9133.78,
+    "onchain": 8738.29,
+    "lstm": 9104.3,
+    "valuation_score": 34.52,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-07-12",
+    "actual": 9295.52,
+    "onchain": 8757.74,
+    "lstm": 9247.68,
+    "valuation_score": 34.84,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-07-19",
+    "actual": 9196.79,
+    "onchain": 8772.86,
+    "lstm": 9200.9,
+    "valuation_score": 33.63,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-07-26",
+    "actual": 9554.38,
+    "onchain": 8793.86,
+    "lstm": 9417.82,
+    "valuation_score": 35.27,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-08-02",
+    "actual": 11210.3,
+    "onchain": 8906.42,
+    "lstm": 10998.9,
+    "valuation_score": 44.46,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-08-09",
+    "actual": 11564.57,
+    "onchain": 9040.63,
+    "lstm": 11361.23,
+    "valuation_score": 45.58,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-08-16",
+    "actual": 11736.13,
+    "onchain": 9152.16,
+    "lstm": 11696.35,
+    "valuation_score": 45.42,
+    "signal": "Hold"
+  },
+  {
+    "date": "2020-08-23",
+    "actual": 11826.49,
+    "onchain": 9237.19,
+    "lstm": 11963.96,
+    "valuation_score": 44.67,
+    "signal": "Hold"
+  },
+  {
+    "date": "2020-08-30",
+    "actual": 11519.17,
+    "onchain": 9278.97,
+    "lstm": 11529.64,
+    "valuation_score": 41.9,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-09-06",
+    "actual": 10882.66,
+    "onchain": 9318.76,
+    "lstm": 11071.65,
+    "valuation_score": 37.9,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-09-13",
+    "actual": 10311.54,
+    "onchain": 9308.83,
+    "lstm": 10368.85,
+    "valuation_score": 34.69,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-09-20",
+    "actual": 10894.55,
+    "onchain": 9337.4,
+    "lstm": 10774.68,
+    "valuation_score": 37.56,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-09-27",
+    "actual": 10590.29,
+    "onchain": 9363.59,
+    "lstm": 10635.33,
+    "valuation_score": 35.6,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-10-04",
+    "actual": 10676.99,
+    "onchain": 9392.59,
+    "lstm": 10742.41,
+    "valuation_score": 35.78,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-10-11",
+    "actual": 10956.28,
+    "onchain": 9420.18,
+    "lstm": 10855.45,
+    "valuation_score": 37.03,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-10-18",
+    "actual": 11442.07,
+    "onchain": 9472.19,
+    "lstm": 11447.08,
+    "valuation_score": 39.16,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-10-25",
+    "actual": 12661.46,
+    "onchain": 9620.73,
+    "lstm": 12396.8,
+    "valuation_score": 44.71,
+    "signal": "Buy"
+  },
+  {
+    "date": "2020-11-01",
+    "actual": 13524.17,
+    "onchain": 9787.47,
+    "lstm": 13451.38,
+    "valuation_score": 48.76,
+    "signal": "Hold"
+  },
+  {
+    "date": "2020-11-08",
+    "actual": 14759.06,
+    "onchain": 10102.91,
+    "lstm": 14526.66,
+    "valuation_score": 53.89,
+    "signal": "Hold"
+  },
+  {
+    "date": "2020-11-15",
+    "actual": 15868.43,
+    "onchain": 10358.94,
+    "lstm": 15941.31,
+    "valuation_score": 57.95,
+    "signal": "Sell"
+  },
+  {
+    "date": "2020-11-22",
+    "actual": 17985.95,
+    "onchain": 10683.8,
+    "lstm": 17541.7,
+    "valuation_score": 64.9,
+    "signal": "Sell"
+  },
+  {
+    "date": "2020-11-29",
+    "actual": 18060.5,
+    "onchain": 11021.08,
+    "lstm": 18082.38,
+    "valuation_score": 62.69,
+    "signal": "Sell"
+  },
+  {
+    "date": "2020-12-06",
+    "actual": 19196.3,
+    "onchain": 11314.47,
+    "lstm": 18936.77,
+    "valuation_score": 65.09,
+    "signal": "Sell"
+  },
+  {
+    "date": "2020-12-13",
+    "actual": 18631.97,
+    "onchain": 11524.3,
+    "lstm": 18692.9,
+    "valuation_score": 60.82,
+    "signal": "Sell"
+  },
+  {
+    "date": "2020-12-20",
+    "actual": 21901.92,
+    "onchain": 12037.68,
+    "lstm": 21254.8,
+    "valuation_score": 69.66,
+    "signal": "Sell"
+  },
+  {
+    "date": "2020-12-27",
+    "actual": 24469.61,
+    "onchain": 12774.92,
+    "lstm": 24323.62,
+    "valuation_score": 73.56,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2021-01-03",
+    "actual": 29545.58,
+    "onchain": 13913.15,
+    "lstm": 28416.75,
+    "valuation_score": 79.79,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2021-01-10",
+    "actual": 37307.1,
+    "onchain": 15683.31,
+    "lstm": 37046.92,
+    "valuation_score": 84.76,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2021-01-17",
+    "actual": 36325.94,
+    "onchain": 16966.18,
+    "lstm": 36912.16,
+    "valuation_score": 79.96,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2021-01-24",
+    "actual": 33803.1,
+    "onchain": 17422.91,
+    "lstm": 34300.86,
+    "valuation_score": 73.0,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2021-01-31",
+    "actual": 32943.5,
+    "onchain": 17729.29,
+    "lstm": 32929.85,
+    "valuation_score": 69.07,
+    "signal": "Sell"
+  },
+  {
+    "date": "2021-02-07",
+    "actual": 37180.59,
+    "onchain": 18305.04,
+    "lstm": 36190.35,
+    "valuation_score": 75.21,
+    "signal": "Sell"
+  },
+  {
+    "date": "2021-02-14",
+    "actual": 47029.25,
+    "onchain": 19619.28,
+    "lstm": 45051.72,
+    "valuation_score": 83.93,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2021-02-21",
+    "actual": 52901.24,
+    "onchain": 21001.58,
+    "lstm": 52505.42,
+    "valuation_score": 86.25,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2021-02-28",
+    "actual": 48153.41,
+    "onchain": 22385.15,
+    "lstm": 51082.73,
+    "valuation_score": 77.72,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2021-03-07",
+    "actual": 49422.89,
+    "onchain": 22994.18,
+    "lstm": 48837.07,
+    "valuation_score": 77.19,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2021-03-14",
+    "actual": 57045.71,
+    "onchain": 23863.02,
+    "lstm": 56005.12,
+    "valuation_score": 82.6,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2021-03-21",
+    "actual": 57557.15,
+    "onchain": 24807.61,
+    "lstm": 57708.21,
+    "valuation_score": 80.47,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2021-03-28",
+    "actual": 54244.29,
+    "onchain": 25476.15,
+    "lstm": 54084.37,
+    "valuation_score": 74.12,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2021-04-04",
+    "actual": 58340.44,
+    "onchain": 26228.04,
+    "lstm": 57883.26,
+    "valuation_score": 76.63,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2021-04-11",
+    "actual": 58386.62,
+    "onchain": 27079.41,
+    "lstm": 58076.13,
+    "valuation_score": 74.67,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2021-04-18",
+    "actual": 61099.11,
+    "onchain": 28039.16,
+    "lstm": 61173.76,
+    "valuation_score": 75.56,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2021-04-25",
+    "actual": 52623.17,
+    "onchain": 28713.64,
+    "lstm": 53637.9,
+    "valuation_score": 62.17,
+    "signal": "Sell"
+  },
+  {
+    "date": "2021-05-02",
+    "actual": 55643.21,
+    "onchain": 29200.94,
+    "lstm": 54505.74,
+    "valuation_score": 65.38,
+    "signal": "Sell"
+  },
+  {
+    "date": "2021-05-09",
+    "actual": 57028.88,
+    "onchain": 29803.8,
+    "lstm": 57171.61,
+    "valuation_score": 65.75,
+    "signal": "Sell"
+  },
+  {
+    "date": "2021-05-16",
+    "actual": 50846.27,
+    "onchain": 30217.09,
+    "lstm": 52369.72,
+    "valuation_score": 55.33,
+    "signal": "Sell"
+  },
+  {
+    "date": "2021-05-23",
+    "actual": 39188.01,
+    "onchain": 29866.15,
+    "lstm": 40602.65,
+    "valuation_score": 37.9,
+    "signal": "Buy"
+  },
+  {
+    "date": "2021-05-30",
+    "actual": 37219.51,
+    "onchain": 29662.89,
+    "lstm": 37276.79,
+    "valuation_score": 35.66,
+    "signal": "Buy"
+  },
+  {
+    "date": "2021-06-06",
+    "actual": 36969.79,
+    "onchain": 29632.59,
+    "lstm": 36493.22,
+    "valuation_score": 35.97,
+    "signal": "Buy"
+  },
+  {
+    "date": "2021-06-13",
+    "actual": 36168.42,
+    "onchain": 29523.25,
+    "lstm": 35466.54,
+    "valuation_score": 35.58,
+    "signal": "Buy"
+  },
+  {
+    "date": "2021-06-20",
+    "actual": 37694.95,
+    "onchain": 29583.8,
+    "lstm": 38435.08,
+    "valuation_score": 38.98,
+    "signal": "Buy"
+  },
+  {
+    "date": "2021-06-27",
+    "actual": 32922.84,
+    "onchain": 29301.66,
+    "lstm": 33295.27,
+    "valuation_score": 32.29,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2021-07-04",
+    "actual": 34658.18,
+    "onchain": 29083.41,
+    "lstm": 35037.68,
+    "valuation_score": 36.84,
+    "signal": "Buy"
+  },
+  {
+    "date": "2021-07-11",
+    "actual": 33795.9,
+    "onchain": 29009.55,
+    "lstm": 33226.13,
+    "valuation_score": 36.68,
+    "signal": "Buy"
+  },
+  {
+    "date": "2021-07-18",
+    "actual": 32142.08,
+    "onchain": 28980.51,
+    "lstm": 32357.87,
+    "valuation_score": 35.27,
+    "signal": "Buy"
+  },
+  {
+    "date": "2021-07-25",
+    "actual": 32543.31,
+    "onchain": 28980.47,
+    "lstm": 32485.92,
+    "valuation_score": 37.15,
+    "signal": "Buy"
+  },
+  {
+    "date": "2021-08-01",
+    "actual": 40021.23,
+    "onchain": 29613.62,
+    "lstm": 39381.4,
+    "valuation_score": 51.9,
+    "signal": "Hold"
+  },
+  {
+    "date": "2021-08-08",
+    "actual": 41365.16,
+    "onchain": 29944.01,
+    "lstm": 40805.72,
+    "valuation_score": 54.4,
+    "signal": "Hold"
+  },
+  {
+    "date": "2021-08-15",
+    "actual": 46250.37,
+    "onchain": 30254.09,
+    "lstm": 45481.05,
+    "valuation_score": 61.23,
+    "signal": "Sell"
+  },
+  {
+    "date": "2021-08-22",
+    "actual": 47139.2,
+    "onchain": 30526.45,
+    "lstm": 46198.01,
+    "valuation_score": 61.83,
+    "signal": "Sell"
+  },
+  {
+    "date": "2021-08-29",
+    "actual": 48651.24,
+    "onchain": 30901.91,
+    "lstm": 48262.85,
+    "valuation_score": 62.91,
+    "signal": "Sell"
+  },
+  {
+    "date": "2021-09-05",
+    "actual": 49132.98,
+    "onchain": 31166.57,
+    "lstm": 48966.83,
+    "valuation_score": 62.77,
+    "signal": "Sell"
+  },
+  {
+    "date": "2021-09-12",
+    "actual": 46882.32,
+    "onchain": 31336.09,
+    "lstm": 47946.28,
+    "valuation_score": 59.12,
+    "signal": "Sell"
+  },
+  {
+    "date": "2021-09-19",
+    "actual": 47230.71,
+    "onchain": 31499.89,
+    "lstm": 47207.53,
+    "valuation_score": 59.12,
+    "signal": "Sell"
+  },
+  {
+    "date": "2021-09-26",
+    "actual": 42927.25,
+    "onchain": 31519.09,
+    "lstm": 43688.42,
+    "valuation_score": 52.32,
+    "signal": "Hold"
+  },
+  {
+    "date": "2021-10-03",
+    "actual": 44718.47,
+    "onchain": 31773.32,
+    "lstm": 43400.7,
+    "valuation_score": 53.93,
+    "signal": "Hold"
+  },
+  {
+    "date": "2021-10-10",
+    "actual": 53388.18,
+    "onchain": 32326.47,
+    "lstm": 52217.94,
+    "valuation_score": 64.56,
+    "signal": "Sell"
+  },
+  {
+    "date": "2021-10-17",
+    "actual": 58865.52,
+    "onchain": 32952.33,
+    "lstm": 57198.92,
+    "valuation_score": 69.7,
+    "signal": "Sell"
+  },
+  {
+    "date": "2021-10-24",
+    "actual": 62510.02,
+    "onchain": 33842.91,
+    "lstm": 62784.23,
+    "valuation_score": 71.72,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2021-10-31",
+    "actual": 61137.18,
+    "onchain": 34386.48,
+    "lstm": 61420.64,
+    "valuation_score": 68.53,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2021-11-07",
+    "actual": 61995.92,
+    "onchain": 35066.67,
+    "lstm": 61881.64,
+    "valuation_score": 67.78,
+    "signal": "Sell"
+  },
+  {
+    "date": "2021-11-14",
+    "actual": 65409.33,
+    "onchain": 35927.47,
+    "lstm": 65625.72,
+    "valuation_score": 69.81,
+    "signal": "Strong Sell"
+  },
+  {
+    "date": "2021-11-21",
+    "actual": 59688.66,
+    "onchain": 36477.14,
+    "lstm": 60742.26,
+    "valuation_score": 60.87,
+    "signal": "Sell"
+  },
+  {
+    "date": "2021-11-28",
+    "actual": 56551.63,
+    "onchain": 36637.53,
+    "lstm": 57037.38,
+    "valuation_score": 55.45,
+    "signal": "Sell"
+  },
+  {
+    "date": "2021-12-05",
+    "actual": 54419.95,
+    "onchain": 36814.43,
+    "lstm": 55453.2,
+    "valuation_score": 51.65,
+    "signal": "Sell"
+  },
+  {
+    "date": "2021-12-12",
+    "actual": 49491.99,
+    "onchain": 36693.32,
+    "lstm": 49681.82,
+    "valuation_score": 44.64,
+    "signal": "Hold"
+  },
+  {
+    "date": "2021-12-19",
+    "actual": 47383.98,
+    "onchain": 36666.14,
+    "lstm": 47918.68,
+    "valuation_score": 41.78,
+    "signal": "Buy"
+  },
+  {
+    "date": "2021-12-26",
+    "actual": 49659.21,
+    "onchain": 36724.65,
+    "lstm": 49252.24,
+    "valuation_score": 44.63,
+    "signal": "Buy"
+  },
+  {
+    "date": "2022-01-02",
+    "actual": 47615.7,
+    "onchain": 36741.28,
+    "lstm": 47780.61,
+    "valuation_score": 41.77,
+    "signal": "Hold"
+  },
+  {
+    "date": "2022-01-09",
+    "actual": 43462.06,
+    "onchain": 36601.35,
+    "lstm": 43916.25,
+    "valuation_score": 36.52,
+    "signal": "Buy"
+  },
+  {
+    "date": "2022-01-16",
+    "actual": 42950.17,
+    "onchain": 36499.23,
+    "lstm": 42617.69,
+    "valuation_score": 36.38,
+    "signal": "Buy"
+  },
+  {
+    "date": "2022-01-23",
+    "actual": 39278.01,
+    "onchain": 36279.65,
+    "lstm": 40074.4,
+    "valuation_score": 32.05,
+    "signal": "Buy"
+  },
+  {
+    "date": "2022-01-30",
+    "actual": 37328.67,
+    "onchain": 35952.6,
+    "lstm": 37023.31,
+    "valuation_score": 30.37,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-02-06",
+    "actual": 39456.76,
+    "onchain": 36010.25,
+    "lstm": 38791.86,
+    "valuation_score": 34.21,
+    "signal": "Buy"
+  },
+  {
+    "date": "2022-02-13",
+    "actual": 43257.46,
+    "onchain": 36201.27,
+    "lstm": 43360.67,
+    "valuation_score": 40.3,
+    "signal": "Buy"
+  },
+  {
+    "date": "2022-02-20",
+    "actual": 41503.65,
+    "onchain": 36244.24,
+    "lstm": 42249.47,
+    "valuation_score": 38.62,
+    "signal": "Buy"
+  },
+  {
+    "date": "2022-02-27",
+    "actual": 38133.97,
+    "onchain": 36135.8,
+    "lstm": 38238.9,
+    "valuation_score": 34.54,
+    "signal": "Buy"
+  },
+  {
+    "date": "2022-03-06",
+    "actual": 41554.39,
+    "onchain": 36297.2,
+    "lstm": 41405.06,
+    "valuation_score": 40.69,
+    "signal": "Buy"
+  },
+  {
+    "date": "2022-03-13",
+    "actual": 39132.67,
+    "onchain": 36271.17,
+    "lstm": 39491.41,
+    "valuation_score": 37.32,
+    "signal": "Buy"
+  },
+  {
+    "date": "2022-03-20",
+    "actual": 40912.58,
+    "onchain": 36308.44,
+    "lstm": 40505.02,
+    "valuation_score": 40.91,
+    "signal": "Buy"
+  },
+  {
+    "date": "2022-03-27",
+    "actual": 43685.79,
+    "onchain": 36491.08,
+    "lstm": 42586.11,
+    "valuation_score": 45.69,
+    "signal": "Buy"
+  },
+  {
+    "date": "2022-04-03",
+    "actual": 46571.95,
+    "onchain": 36869.02,
+    "lstm": 46904.72,
+    "valuation_score": 49.43,
+    "signal": "Hold"
+  },
+  {
+    "date": "2022-04-10",
+    "actual": 43771.08,
+    "onchain": 36887.78,
+    "lstm": 44614.31,
+    "valuation_score": 45.13,
+    "signal": "Hold"
+  },
+  {
+    "date": "2022-04-17",
+    "actual": 40197.34,
+    "onchain": 36847.62,
+    "lstm": 40450.05,
+    "valuation_score": 39.35,
+    "signal": "Buy"
+  },
+  {
+    "date": "2022-04-24",
+    "actual": 40427.68,
+    "onchain": 36908.51,
+    "lstm": 40635.87,
+    "valuation_score": 39.72,
+    "signal": "Buy"
+  },
+  {
+    "date": "2022-05-01",
+    "actual": 38899.41,
+    "onchain": 36845.38,
+    "lstm": 39026.35,
+    "valuation_score": 36.91,
+    "signal": "Buy"
+  },
+  {
+    "date": "2022-05-08",
+    "actual": 36860.71,
+    "onchain": 36665.55,
+    "lstm": 37261.42,
+    "valuation_score": 33.75,
+    "signal": "Buy"
+  },
+  {
+    "date": "2022-05-15",
+    "actual": 29970.92,
+    "onchain": 36043.54,
+    "lstm": 30622.45,
+    "valuation_score": 23.95,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-05-22",
+    "actual": 29761.87,
+    "onchain": 35795.82,
+    "lstm": 30265.43,
+    "valuation_score": 24.21,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-05-29",
+    "actual": 29247.04,
+    "onchain": 35617.27,
+    "lstm": 29334.58,
+    "valuation_score": 23.79,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-06-05",
+    "actual": 30466.86,
+    "onchain": 35502.33,
+    "lstm": 30173.67,
+    "valuation_score": 26.28,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-06-12",
+    "actual": 29580.45,
+    "onchain": 35282.11,
+    "lstm": 29898.67,
+    "valuation_score": 25.36,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-06-19",
+    "actual": 21027.31,
+    "onchain": 34276.89,
+    "lstm": 21999.36,
+    "valuation_score": 11.89,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-06-26",
+    "actual": 20884.92,
+    "onchain": 33813.94,
+    "lstm": 20741.86,
+    "valuation_score": 12.7,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-07-03",
+    "actual": 19754.05,
+    "onchain": 33560.47,
+    "lstm": 19930.95,
+    "valuation_score": 11.8,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-07-10",
+    "actual": 20980.3,
+    "onchain": 33353.82,
+    "lstm": 20851.79,
+    "valuation_score": 15.64,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-07-17",
+    "actual": 20410.72,
+    "onchain": 33068.82,
+    "lstm": 20674.24,
+    "valuation_score": 15.76,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-07-24",
+    "actual": 22850.59,
+    "onchain": 32893.28,
+    "lstm": 22490.3,
+    "valuation_score": 21.57,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-07-31",
+    "actual": 22908.44,
+    "onchain": 32764.37,
+    "lstm": 22723.83,
+    "valuation_score": 22.9,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-08-07",
+    "actual": 23028.55,
+    "onchain": 32731.87,
+    "lstm": 23028.7,
+    "valuation_score": 24.34,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-08-14",
+    "actual": 23997.74,
+    "onchain": 32700.78,
+    "lstm": 23874.78,
+    "valuation_score": 27.68,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-08-21",
+    "actual": 22588.24,
+    "onchain": 32637.37,
+    "lstm": 22950.69,
+    "valuation_score": 25.04,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-08-28",
+    "actual": 20830.3,
+    "onchain": 32518.54,
+    "lstm": 21064.04,
+    "valuation_score": 21.65,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-09-04",
+    "actual": 19991.59,
+    "onchain": 32405.16,
+    "lstm": 19982.66,
+    "valuation_score": 20.65,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-09-11",
+    "actual": 20295.32,
+    "onchain": 32309.16,
+    "lstm": 20051.25,
+    "valuation_score": 22.57,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-09-18",
+    "actual": 20251.84,
+    "onchain": 32158.15,
+    "lstm": 20644.87,
+    "valuation_score": 22.81,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-09-25",
+    "actual": 19056.72,
+    "onchain": 32024.13,
+    "lstm": 19179.7,
+    "valuation_score": 19.86,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-10-02",
+    "actual": 19295.15,
+    "onchain": 31936.06,
+    "lstm": 19099.44,
+    "valuation_score": 20.58,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-10-09",
+    "actual": 19780.39,
+    "onchain": 31870.55,
+    "lstm": 19786.87,
+    "valuation_score": 21.9,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-10-16",
+    "actual": 19178.25,
+    "onchain": 31780.68,
+    "lstm": 19203.52,
+    "valuation_score": 20.41,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-10-23",
+    "actual": 19287.41,
+    "onchain": 31711.62,
+    "lstm": 19306.31,
+    "valuation_score": 21.05,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-10-30",
+    "actual": 20362.69,
+    "onchain": 31694.79,
+    "lstm": 20279.34,
+    "valuation_score": 24.22,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-11-06",
+    "actual": 20672.68,
+    "onchain": 31682.53,
+    "lstm": 20566.95,
+    "valuation_score": 25.26,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-11-13",
+    "actual": 17485.43,
+    "onchain": 31354.09,
+    "lstm": 18197.12,
+    "valuation_score": 17.72,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-11-20",
+    "actual": 16632.03,
+    "onchain": 30802.59,
+    "lstm": 16540.92,
+    "valuation_score": 16.45,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-11-27",
+    "actual": 16359.37,
+    "onchain": 30388.94,
+    "lstm": 16352.21,
+    "valuation_score": 16.37,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-12-04",
+    "actual": 16841.45,
+    "onchain": 30267.77,
+    "lstm": 16913.07,
+    "valuation_score": 17.81,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-12-11",
+    "actual": 17066.61,
+    "onchain": 30086.69,
+    "lstm": 17024.49,
+    "valuation_score": 18.71,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-12-18",
+    "actual": 17182.98,
+    "onchain": 29998.01,
+    "lstm": 17391.84,
+    "valuation_score": 19.5,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2022-12-25",
+    "actual": 16769.1,
+    "onchain": 29878.61,
+    "lstm": 16808.23,
+    "valuation_score": 18.64,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-01-01",
+    "actual": 16638.63,
+    "onchain": 29753.15,
+    "lstm": 16687.71,
+    "valuation_score": 18.73,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-01-08",
+    "actual": 16855.96,
+    "onchain": 29629.51,
+    "lstm": 16790.52,
+    "valuation_score": 19.91,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-01-15",
+    "actual": 19010.76,
+    "onchain": 29596.7,
+    "lstm": 18388.35,
+    "valuation_score": 25.81,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-01-22",
+    "actual": 21760.05,
+    "onchain": 29663.56,
+    "lstm": 21386.0,
+    "valuation_score": 31.53,
+    "signal": "Buy"
+  },
+  {
+    "date": "2023-01-29",
+    "actual": 23073.18,
+    "onchain": 29703.15,
+    "lstm": 22878.18,
+    "valuation_score": 33.55,
+    "signal": "Buy"
+  },
+  {
+    "date": "2023-02-05",
+    "actual": 23274.41,
+    "onchain": 29750.62,
+    "lstm": 23284.57,
+    "valuation_score": 33.55,
+    "signal": "Buy"
+  },
+  {
+    "date": "2023-02-12",
+    "actual": 22289.25,
+    "onchain": 29776.32,
+    "lstm": 22564.07,
+    "valuation_score": 31.25,
+    "signal": "Buy"
+  },
+  {
+    "date": "2023-02-19",
+    "actual": 23668.44,
+    "onchain": 29799.38,
+    "lstm": 23384.23,
+    "valuation_score": 33.2,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-02-26",
+    "actual": 23878.53,
+    "onchain": 29833.31,
+    "lstm": 24080.87,
+    "valuation_score": 32.93,
+    "signal": "Buy"
+  },
+  {
+    "date": "2023-03-05",
+    "actual": 22976.43,
+    "onchain": 29787.09,
+    "lstm": 23363.88,
+    "valuation_score": 30.03,
+    "signal": "Buy"
+  },
+  {
+    "date": "2023-03-12",
+    "actual": 21361.74,
+    "onchain": 29627.64,
+    "lstm": 21561.04,
+    "valuation_score": 25.0,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-03-19",
+    "actual": 25856.87,
+    "onchain": 29736.55,
+    "lstm": 25033.17,
+    "valuation_score": 34.56,
+    "signal": "Buy"
+  },
+  {
+    "date": "2023-03-26",
+    "actual": 27819.86,
+    "onchain": 29926.12,
+    "lstm": 28188.26,
+    "valuation_score": 37.32,
+    "signal": "Buy"
+  },
+  {
+    "date": "2023-04-02",
+    "actual": 28003.01,
+    "onchain": 29797.35,
+    "lstm": 28027.18,
+    "valuation_score": 36.69,
+    "signal": "Buy"
+  },
+  {
+    "date": "2023-04-09",
+    "actual": 28066.14,
+    "onchain": 29674.02,
+    "lstm": 28399.8,
+    "valuation_score": 35.17,
+    "signal": "Buy"
+  },
+  {
+    "date": "2023-04-16",
+    "actual": 30190.35,
+    "onchain": 29798.44,
+    "lstm": 29810.81,
+    "valuation_score": 38.42,
+    "signal": "Buy"
+  },
+  {
+    "date": "2023-04-23",
+    "actual": 28515.52,
+    "onchain": 29875.04,
+    "lstm": 28929.75,
+    "valuation_score": 33.67,
+    "signal": "Buy"
+  },
+  {
+    "date": "2023-04-30",
+    "actual": 28801.01,
+    "onchain": 29923.58,
+    "lstm": 28565.63,
+    "valuation_score": 32.92,
+    "signal": "Buy"
+  },
+  {
+    "date": "2023-05-07",
+    "actual": 28845.8,
+    "onchain": 30020.51,
+    "lstm": 28905.86,
+    "valuation_score": 31.35,
+    "signal": "Buy"
+  },
+  {
+    "date": "2023-05-14",
+    "actual": 27219.28,
+    "onchain": 30170.85,
+    "lstm": 27458.97,
+    "valuation_score": 26.82,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-05-21",
+    "actual": 27038.44,
+    "onchain": 30209.6,
+    "lstm": 27206.88,
+    "valuation_score": 25.23,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-05-28",
+    "actual": 26940.61,
+    "onchain": 30266.73,
+    "lstm": 26741.55,
+    "valuation_score": 24.22,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-06-04",
+    "actual": 27287.64,
+    "onchain": 30309.39,
+    "lstm": 27431.29,
+    "valuation_score": 24.06,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-06-11",
+    "actual": 26300.23,
+    "onchain": 30313.71,
+    "lstm": 26451.31,
+    "valuation_score": 21.62,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-06-18",
+    "actual": 25949.18,
+    "onchain": 30296.59,
+    "lstm": 25977.28,
+    "valuation_score": 20.64,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-06-25",
+    "actual": 29541.47,
+    "onchain": 30368.34,
+    "lstm": 28838.82,
+    "valuation_score": 26.8,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-07-02",
+    "actual": 30449.74,
+    "onchain": 30523.16,
+    "lstm": 30326.14,
+    "valuation_score": 27.94,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-07-09",
+    "actual": 30452.8,
+    "onchain": 30600.58,
+    "lstm": 30454.89,
+    "valuation_score": 27.53,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-07-16",
+    "actual": 30526.08,
+    "onchain": 30638.62,
+    "lstm": 30781.27,
+    "valuation_score": 26.94,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-07-23",
+    "actual": 29915.77,
+    "onchain": 30664.81,
+    "lstm": 29916.89,
+    "valuation_score": 25.15,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-07-30",
+    "actual": 29271.77,
+    "onchain": 30607.47,
+    "lstm": 29385.57,
+    "valuation_score": 24.0,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-08-06",
+    "actual": 29173.33,
+    "onchain": 30531.15,
+    "lstm": 29213.49,
+    "valuation_score": 24.07,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-08-13",
+    "actual": 29436.94,
+    "onchain": 30547.43,
+    "lstm": 29434.82,
+    "valuation_score": 24.8,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-08-20",
+    "actual": 27471.32,
+    "onchain": 30537.25,
+    "lstm": 27904.33,
+    "valuation_score": 21.75,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-08-27",
+    "actual": 26117.07,
+    "onchain": 30471.56,
+    "lstm": 26187.99,
+    "valuation_score": 19.78,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-09-03",
+    "actual": 26380.43,
+    "onchain": 30435.74,
+    "lstm": 26518.05,
+    "valuation_score": 20.23,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-09-10",
+    "actual": 25882.58,
+    "onchain": 30403.02,
+    "lstm": 25864.19,
+    "valuation_score": 19.4,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-09-17",
+    "actual": 26215.48,
+    "onchain": 30388.82,
+    "lstm": 26123.97,
+    "valuation_score": 19.76,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-09-24",
+    "actual": 26732.61,
+    "onchain": 30423.28,
+    "lstm": 26776.68,
+    "valuation_score": 20.32,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-10-01",
+    "actual": 26813.14,
+    "onchain": 30426.21,
+    "lstm": 26593.15,
+    "valuation_score": 20.5,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-10-08",
+    "actual": 27725.67,
+    "onchain": 30457.55,
+    "lstm": 27758.17,
+    "valuation_score": 21.98,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-10-15",
+    "actual": 27059.34,
+    "onchain": 30482.95,
+    "lstm": 27168.08,
+    "valuation_score": 21.36,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-10-22",
+    "actual": 29081.45,
+    "onchain": 30531.38,
+    "lstm": 28758.03,
+    "valuation_score": 25.65,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2023-10-29",
+    "actual": 34009.73,
+    "onchain": 30785.76,
+    "lstm": 33272.74,
+    "valuation_score": 34.1,
+    "signal": "Buy"
+  },
+  {
+    "date": "2023-11-05",
+    "actual": 34907.25,
+    "onchain": 30994.56,
+    "lstm": 34804.54,
+    "valuation_score": 34.99,
+    "signal": "Buy"
+  },
+  {
+    "date": "2023-11-12",
+    "actual": 36330.03,
+    "onchain": 31196.07,
+    "lstm": 35923.68,
+    "valuation_score": 36.37,
+    "signal": "Buy"
+  },
+  {
+    "date": "2023-11-19",
+    "actual": 36674.97,
+    "onchain": 31359.44,
+    "lstm": 36620.77,
+    "valuation_score": 36.11,
+    "signal": "Buy"
+  },
+  {
+    "date": "2023-11-26",
+    "actual": 37323.92,
+    "onchain": 31514.37,
+    "lstm": 37259.61,
+    "valuation_score": 35.84,
+    "signal": "Buy"
+  },
+  {
+    "date": "2023-12-03",
+    "actual": 38394.48,
+    "onchain": 31655.72,
+    "lstm": 38069.33,
+    "valuation_score": 36.58,
+    "signal": "Buy"
+  },
+  {
+    "date": "2023-12-10",
+    "actual": 43526.22,
+    "onchain": 32046.77,
+    "lstm": 42942.26,
+    "valuation_score": 43.3,
+    "signal": "Buy"
+  },
+  {
+    "date": "2023-12-17",
+    "actual": 42037.05,
+    "onchain": 32314.7,
+    "lstm": 42663.32,
+    "valuation_score": 39.79,
+    "signal": "Buy"
+  },
+  {
+    "date": "2023-12-24",
+    "actual": 43322.73,
+    "onchain": 32562.34,
+    "lstm": 42897.69,
+    "valuation_score": 40.29,
+    "signal": "Buy"
+  },
+  {
+    "date": "2023-12-31",
+    "actual": 42663.25,
+    "onchain": 32832.1,
+    "lstm": 42683.6,
+    "valuation_score": 37.73,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-01-07",
+    "actual": 43989.08,
+    "onchain": 33218.91,
+    "lstm": 43708.47,
+    "valuation_score": 37.98,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-01-14",
+    "actual": 44830.99,
+    "onchain": 33592.41,
+    "lstm": 44687.69,
+    "valuation_score": 37.97,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-01-21",
+    "actual": 42066.32,
+    "onchain": 33847.06,
+    "lstm": 42202.49,
+    "valuation_score": 33.3,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-01-28",
+    "actual": 40757.57,
+    "onchain": 34009.46,
+    "lstm": 40632.42,
+    "valuation_score": 31.37,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-02-04",
+    "actual": 42927.47,
+    "onchain": 34235.91,
+    "lstm": 42984.66,
+    "valuation_score": 33.52,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-02-11",
+    "actual": 45496.82,
+    "onchain": 34444.62,
+    "lstm": 44612.41,
+    "valuation_score": 36.52,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-02-18",
+    "actual": 51340.22,
+    "onchain": 34919.01,
+    "lstm": 50634.44,
+    "valuation_score": 44.04,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-02-25",
+    "actual": 51609.05,
+    "onchain": 35344.16,
+    "lstm": 51471.05,
+    "valuation_score": 44.09,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-03-03",
+    "actual": 60431.81,
+    "onchain": 36360.37,
+    "lstm": 59138.29,
+    "valuation_score": 53.78,
+    "signal": "Hold"
+  },
+  {
+    "date": "2024-03-10",
+    "actual": 67277.85,
+    "onchain": 38058.89,
+    "lstm": 66817.78,
+    "valuation_score": 59.27,
+    "signal": "Sell"
+  },
+  {
+    "date": "2024-03-17",
+    "actual": 70194.48,
+    "onchain": 39831.84,
+    "lstm": 70051.85,
+    "valuation_score": 59.71,
+    "signal": "Sell"
+  },
+  {
+    "date": "2024-03-24",
+    "actual": 65454.33,
+    "onchain": 40597.52,
+    "lstm": 66250.26,
+    "valuation_score": 53.25,
+    "signal": "Sell"
+  },
+  {
+    "date": "2024-03-31",
+    "actual": 70145.05,
+    "onchain": 41720.54,
+    "lstm": 69135.96,
+    "valuation_score": 57.02,
+    "signal": "Sell"
+  },
+  {
+    "date": "2024-04-07",
+    "actual": 68046.77,
+    "onchain": 42353.74,
+    "lstm": 67849.66,
+    "valuation_score": 53.56,
+    "signal": "Sell"
+  },
+  {
+    "date": "2024-04-14",
+    "actual": 68387.42,
+    "onchain": 42682.33,
+    "lstm": 69633.48,
+    "valuation_score": 52.71,
+    "signal": "Sell"
+  },
+  {
+    "date": "2024-04-21",
+    "actual": 63664.48,
+    "onchain": 42843.28,
+    "lstm": 63992.69,
+    "valuation_score": 46.75,
+    "signal": "Hold"
+  },
+  {
+    "date": "2024-04-28",
+    "actual": 64602.94,
+    "onchain": 43162.14,
+    "lstm": 65166.61,
+    "valuation_score": 46.21,
+    "signal": "Hold"
+  },
+  {
+    "date": "2024-05-05",
+    "actual": 61827.0,
+    "onchain": 43316.52,
+    "lstm": 61252.08,
+    "valuation_score": 42.37,
+    "signal": "Hold"
+  },
+  {
+    "date": "2024-05-12",
+    "actual": 61839.19,
+    "onchain": 43425.63,
+    "lstm": 62032.94,
+    "valuation_score": 41.24,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-05-19",
+    "actual": 65169.54,
+    "onchain": 43696.36,
+    "lstm": 64579.34,
+    "valuation_score": 43.66,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-05-26",
+    "actual": 69227.13,
+    "onchain": 44107.35,
+    "lstm": 69093.79,
+    "valuation_score": 46.45,
+    "signal": "Hold"
+  },
+  {
+    "date": "2024-06-02",
+    "actual": 68078.28,
+    "onchain": 44979.29,
+    "lstm": 67878.04,
+    "valuation_score": 43.28,
+    "signal": "Hold"
+  },
+  {
+    "date": "2024-06-09",
+    "actual": 69936.52,
+    "onchain": 45441.79,
+    "lstm": 69715.86,
+    "valuation_score": 44.0,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-06-16",
+    "actual": 67234.46,
+    "onchain": 45743.11,
+    "lstm": 68113.44,
+    "valuation_score": 41.04,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-06-23",
+    "actual": 64723.09,
+    "onchain": 45899.56,
+    "lstm": 65092.65,
+    "valuation_score": 38.67,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-06-30",
+    "actual": 61188.42,
+    "onchain": 46039.17,
+    "lstm": 61207.61,
+    "valuation_score": 35.46,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-07-07",
+    "actual": 59084.49,
+    "onchain": 46161.04,
+    "lstm": 59697.48,
+    "valuation_score": 33.54,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-07-14",
+    "actual": 58272.32,
+    "onchain": 46213.65,
+    "lstm": 57784.87,
+    "valuation_score": 32.79,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-07-21",
+    "actual": 65719.59,
+    "onchain": 46545.28,
+    "lstm": 64625.16,
+    "valuation_score": 38.53,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-07-28",
+    "actual": 66955.33,
+    "onchain": 46923.34,
+    "lstm": 66831.82,
+    "valuation_score": 39.09,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-08-04",
+    "actual": 63346.29,
+    "onchain": 47112.59,
+    "lstm": 65063.94,
+    "valuation_score": 35.87,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-08-11",
+    "actual": 58265.46,
+    "onchain": 47042.08,
+    "lstm": 57898.02,
+    "valuation_score": 31.94,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2024-08-18",
+    "actual": 59078.63,
+    "onchain": 47114.63,
+    "lstm": 59395.54,
+    "valuation_score": 32.47,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-08-25",
+    "actual": 61812.91,
+    "onchain": 47184.57,
+    "lstm": 60229.46,
+    "valuation_score": 34.62,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-09-01",
+    "actual": 59489.14,
+    "onchain": 47260.3,
+    "lstm": 60439.31,
+    "valuation_score": 32.71,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-09-08",
+    "actual": 56243.97,
+    "onchain": 47232.07,
+    "lstm": 56719.97,
+    "valuation_score": 30.22,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-09-15",
+    "actual": 58572.58,
+    "onchain": 47289.29,
+    "lstm": 57783.09,
+    "valuation_score": 32.01,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-09-22",
+    "actual": 61837.17,
+    "onchain": 47494.23,
+    "lstm": 61455.17,
+    "valuation_score": 34.46,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-09-29",
+    "actual": 64707.46,
+    "onchain": 47800.77,
+    "lstm": 64216.79,
+    "valuation_score": 36.49,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-10-06",
+    "actual": 61777.5,
+    "onchain": 47904.29,
+    "lstm": 62597.97,
+    "valuation_score": 33.99,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-10-13",
+    "actual": 61972.01,
+    "onchain": 48367.27,
+    "lstm": 62057.9,
+    "valuation_score": 33.67,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-10-20",
+    "actual": 67683.63,
+    "onchain": 48839.99,
+    "lstm": 66864.53,
+    "valuation_score": 37.72,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-10-27",
+    "actual": 67275.65,
+    "onchain": 49270.75,
+    "lstm": 67205.89,
+    "valuation_score": 36.96,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-11-03",
+    "actual": 70403.81,
+    "onchain": 49637.14,
+    "lstm": 69926.68,
+    "valuation_score": 38.98,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-11-10",
+    "actual": 74671.63,
+    "onchain": 50184.81,
+    "lstm": 72735.86,
+    "valuation_score": 41.58,
+    "signal": "Buy"
+  },
+  {
+    "date": "2024-11-17",
+    "actual": 89417.45,
+    "onchain": 51836.69,
+    "lstm": 87865.03,
+    "valuation_score": 51.37,
+    "signal": "Hold"
+  },
+  {
+    "date": "2024-11-24",
+    "actual": 95739.01,
+    "onchain": 53782.76,
+    "lstm": 94181.51,
+    "valuation_score": 54.12,
+    "signal": "Hold"
+  },
+  {
+    "date": "2024-12-01",
+    "actual": 95468.26,
+    "onchain": 55323.88,
+    "lstm": 96285.45,
+    "valuation_score": 51.84,
+    "signal": "Hold"
+  },
+  {
+    "date": "2024-12-08",
+    "actual": 98333.86,
+    "onchain": 56674.83,
+    "lstm": 97998.59,
+    "valuation_score": 52.49,
+    "signal": "Hold"
+  },
+  {
+    "date": "2024-12-15",
+    "actual": 100404.98,
+    "onchain": 58316.55,
+    "lstm": 100255.95,
+    "valuation_score": 52.07,
+    "signal": "Hold"
+  },
+  {
+    "date": "2024-12-22",
+    "actual": 99999.71,
+    "onchain": 59718.44,
+    "lstm": 101134.76,
+    "valuation_score": 50.01,
+    "signal": "Sell"
+  },
+  {
+    "date": "2024-12-29",
+    "actual": 95871.9,
+    "onchain": 60908.72,
+    "lstm": 95619.39,
+    "valuation_score": 45.71,
+    "signal": "Hold"
+  },
+  {
+    "date": "2025-01-05",
+    "actual": 95997.95,
+    "onchain": 61567.88,
+    "lstm": 95315.23,
+    "valuation_score": 45.33,
+    "signal": "Buy"
+  },
+  {
+    "date": "2025-01-12",
+    "actual": 95751.34,
+    "onchain": 62022.75,
+    "lstm": 95483.76,
+    "valuation_score": 44.84,
+    "signal": "Hold"
+  },
+  {
+    "date": "2025-01-19",
+    "actual": 100106.38,
+    "onchain": 62501.39,
+    "lstm": 99751.71,
+    "valuation_score": 47.89,
+    "signal": "Buy"
+  },
+  {
+    "date": "2025-01-26",
+    "actual": 104138.32,
+    "onchain": 63467.35,
+    "lstm": 104222.22,
+    "valuation_score": 50.41,
+    "signal": "Hold"
+  },
+  {
+    "date": "2025-02-02",
+    "actual": 101749.99,
+    "onchain": 64031.74,
+    "lstm": 102869.24,
+    "valuation_score": 48.41,
+    "signal": "Hold"
+  },
+  {
+    "date": "2025-02-09",
+    "actual": 97404.05,
+    "onchain": 64502.05,
+    "lstm": 97883.0,
+    "valuation_score": 44.74,
+    "signal": "Hold"
+  },
+  {
+    "date": "2025-02-16",
+    "actual": 96950.37,
+    "onchain": 64855.67,
+    "lstm": 96480.31,
+    "valuation_score": 44.47,
+    "signal": "Buy"
+  },
+  {
+    "date": "2025-02-23",
+    "actual": 96431.57,
+    "onchain": 65030.68,
+    "lstm": 96756.68,
+    "valuation_score": 44.71,
+    "signal": "Buy"
+  },
+  {
+    "date": "2025-03-02",
+    "actual": 87666.98,
+    "onchain": 65075.24,
+    "lstm": 87953.63,
+    "valuation_score": 38.28,
+    "signal": "Buy"
+  },
+  {
+    "date": "2025-03-09",
+    "actual": 86836.25,
+    "onchain": 65179.89,
+    "lstm": 88754.77,
+    "valuation_score": 38.23,
+    "signal": "Buy"
+  },
+  {
+    "date": "2025-03-16",
+    "actual": 82492.05,
+    "onchain": 65263.18,
+    "lstm": 81873.67,
+    "valuation_score": 35.37,
+    "signal": "Buy"
+  },
+  {
+    "date": "2025-03-23",
+    "actual": 84463.64,
+    "onchain": 65372.01,
+    "lstm": 84099.2,
+    "valuation_score": 37.15,
+    "signal": "Buy"
+  },
+  {
+    "date": "2025-03-30",
+    "actual": 85402.31,
+    "onchain": 65524.54,
+    "lstm": 86405.18,
+    "valuation_score": 37.57,
+    "signal": "Buy"
+  },
+  {
+    "date": "2025-04-06",
+    "actual": 82600.13,
+    "onchain": 65635.23,
+    "lstm": 82966.94,
+    "valuation_score": 35.5,
+    "signal": "Buy"
+  },
+  {
+    "date": "2025-04-13",
+    "actual": 81464.41,
+    "onchain": 65763.76,
+    "lstm": 80374.87,
+    "valuation_score": 35.04,
+    "signal": "Buy"
+  },
+  {
+    "date": "2025-04-20",
+    "actual": 84573.39,
+    "onchain": 65759.36,
+    "lstm": 84271.72,
+    "valuation_score": 37.47,
+    "signal": "Buy"
+  },
+  {
+    "date": "2025-04-27",
+    "actual": 93097.25,
+    "onchain": 66195.75,
+    "lstm": 91819.2,
+    "valuation_score": 43.18,
+    "signal": "Buy"
+  },
+  {
+    "date": "2025-05-04",
+    "actual": 95282.98,
+    "onchain": 66824.27,
+    "lstm": 94594.08,
+    "valuation_score": 44.2,
+    "signal": "Buy"
+  },
+  {
+    "date": "2025-05-11",
+    "actual": 100462.62,
+    "onchain": 67457.59,
+    "lstm": 99113.51,
+    "valuation_score": 47.54,
+    "signal": "Buy"
+  },
+  {
+    "date": "2025-05-18",
+    "actual": 103875.26,
+    "onchain": 68186.6,
+    "lstm": 103556.18,
+    "valuation_score": 49.43,
+    "signal": "Hold"
+  },
+  {
+    "date": "2025-05-25",
+    "actual": 108259.3,
+    "onchain": 69021.21,
+    "lstm": 107170.44,
+    "valuation_score": 51.39,
+    "signal": "Hold"
+  },
+  {
+    "date": "2025-06-01",
+    "actual": 106643.87,
+    "onchain": 69808.33,
+    "lstm": 107069.28,
+    "valuation_score": 49.5,
+    "signal": "Hold"
+  },
+  {
+    "date": "2025-06-08",
+    "actual": 104809.97,
+    "onchain": 70445.84,
+    "lstm": 104856.82,
+    "valuation_score": 47.5,
+    "signal": "Hold"
+  },
+  {
+    "date": "2025-06-15",
+    "actual": 107417.4,
+    "onchain": 70913.7,
+    "lstm": 107371.43,
+    "valuation_score": 48.76,
+    "signal": "Hold"
+  },
+  {
+    "date": "2025-06-22",
+    "actual": 103873.97,
+    "onchain": 71308.85,
+    "lstm": 104867.99,
+    "valuation_score": 46.08,
+    "signal": "Hold"
+  },
+  {
+    "date": "2025-06-29",
+    "actual": 106941.2,
+    "onchain": 71819.86,
+    "lstm": 105373.9,
+    "valuation_score": 47.82,
+    "signal": "Hold"
+  },
+  {
+    "date": "2025-07-06",
+    "actual": 108112.13,
+    "onchain": 72721.22,
+    "lstm": 107836.86,
+    "valuation_score": 47.53,
+    "signal": "Hold"
+  },
+  {
+    "date": "2025-07-13",
+    "actual": 114056.78,
+    "onchain": 73834.1,
+    "lstm": 112207.87,
+    "valuation_score": 49.99,
+    "signal": "Hold"
+  },
+  {
+    "date": "2025-07-20",
+    "actual": 118426.65,
+    "onchain": 75272.23,
+    "lstm": 118694.78,
+    "valuation_score": 51.34,
+    "signal": "Hold"
+  },
+  {
+    "date": "2025-07-27",
+    "actual": 118495.66,
+    "onchain": 76314.32,
+    "lstm": 118273.68,
+    "valuation_score": 50.32,
+    "signal": "Hold"
+  },
+  {
+    "date": "2025-08-03",
+    "actual": 115652.36,
+    "onchain": 76924.42,
+    "lstm": 116716.63,
+    "valuation_score": 47.62,
+    "signal": "Hold"
+  },
+  {
+    "date": "2025-08-10",
+    "actual": 116318.92,
+    "onchain": 77308.1,
+    "lstm": 115911.64,
+    "valuation_score": 47.37,
+    "signal": "Hold"
+  },
+  {
+    "date": "2025-08-17",
+    "actual": 119032.13,
+    "onchain": 77896.09,
+    "lstm": 118965.79,
+    "valuation_score": 48.07,
+    "signal": "Hold"
+  },
+  {
+    "date": "2025-08-24",
+    "actual": 114488.71,
+    "onchain": 78420.39,
+    "lstm": 115159.64,
+    "valuation_score": 44.89,
+    "signal": "Hold"
+  },
+  {
+    "date": "2025-08-31",
+    "actual": 110179.17,
+    "onchain": 78824.04,
+    "lstm": 110870.07,
+    "valuation_score": 41.7,
+    "signal": "Buy"
+  },
+  {
+    "date": "2025-09-07",
+    "actual": 110725.33,
+    "onchain": 79293.81,
+    "lstm": 109692.22,
+    "valuation_score": 40.99,
+    "signal": "Buy"
+  },
+  {
+    "date": "2025-09-14",
+    "actual": 114355.14,
+    "onchain": 79708.91,
+    "lstm": 113494.3,
+    "valuation_score": 42.25,
+    "signal": "Buy"
+  },
+  {
+    "date": "2025-09-21",
+    "actual": 116070.91,
+    "onchain": 80210.18,
+    "lstm": 115643.15,
+    "valuation_score": 42.26,
+    "signal": "Buy"
+  },
+  {
+    "date": "2025-09-28",
+    "actual": 111250.7,
+    "onchain": 80591.26,
+    "lstm": 111539.92,
+    "valuation_score": 38.73,
+    "signal": "Buy"
+  },
+  {
+    "date": "2025-10-05",
+    "actual": 119359.48,
+    "onchain": 81335.28,
+    "lstm": 117547.07,
+    "valuation_score": 42.54,
+    "signal": "Buy"
+  },
+  {
+    "date": "2025-10-12",
+    "actual": 118750.53,
+    "onchain": 82292.8,
+    "lstm": 120217.7,
+    "valuation_score": 41.5,
+    "signal": "Hold"
+  },
+  {
+    "date": "2025-10-19",
+    "actual": 110019.07,
+    "onchain": 82806.07,
+    "lstm": 111228.64,
+    "valuation_score": 36.5,
+    "signal": "Buy"
+  },
+  {
+    "date": "2025-10-26",
+    "actual": 110609.4,
+    "onchain": 83180.68,
+    "lstm": 110453.64,
+    "valuation_score": 36.55,
+    "signal": "Buy"
+  },
+  {
+    "date": "2025-11-02",
+    "actual": 110749.03,
+    "onchain": 83759.91,
+    "lstm": 110752.04,
+    "valuation_score": 36.26,
+    "signal": "Buy"
+  },
+  {
+    "date": "2025-11-09",
+    "actual": 103350.29,
+    "onchain": 84054.8,
+    "lstm": 103786.04,
+    "valuation_score": 32.52,
+    "signal": "Buy"
+  },
+  {
+    "date": "2025-11-16",
+    "actual": 99285.79,
+    "onchain": 84251.43,
+    "lstm": 100528.44,
+    "valuation_score": 30.61,
+    "signal": "Buy"
+  },
+  {
+    "date": "2025-11-23",
+    "actual": 88510.74,
+    "onchain": 84171.57,
+    "lstm": 89311.51,
+    "valuation_score": 25.72,
+    "signal": "Strong Buy"
+  },
+  {
+    "date": "2025-11-30",
+    "actual": 87906.08,
+    "onchain": 84576.21,
+    "lstm": 86621.39,
+    "valuation_score": 25.35,
+    "signal": "Strong Buy"
+  }
+]

@@ -1,0 +1,78 @@
+name: Update Bitcoin Predictions
+
+on:
+  # Run every 3 hours
+  schedule:
+    - cron: '0 */3 * * *'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Install Python dependencies
+        run: |
+          pip install requests numpy pandas yfinance
+      
+      - name: Fetch latest Bitcoin price data
+        run: |
+          python3 scripts/fetch_latest_price.py
+      
+      - name: Update on-chain predictions
+        run: |
+          python3 scripts/update_onchain.py
+      
+      - name: Update LSTM predictions
+        run: |
+          python3 scripts/update_lstm.py
+      
+      - name: Fetch Deribit options data
+        run: |
+          python3 scripts/fetch_deribit_options.py
+      
+      - name: Generate 3D options surface
+        run: |
+          python3 scripts/generate_3d_surface_v2.py
+      
+      - name: Copy updated data to web project
+        run: |
+          cp results/*.json client/public/
+      
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions@github.com'
+          git add client/public/*.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update predictions data [$(date +'%Y-%m-%d %H:%M UTC')]" && git push)
+      
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install pnpm
+        run: npm install -g pnpm
+      
+      - name: Install dependencies
+        run: pnpm install
+      
+      - name: Build website
+        run: pnpm build
+      
+      - name: Deploy to GitHub Pages
+        run: pnpm deploy
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
